@@ -22,6 +22,7 @@ if [[ $# != 3 ]]; then
    exit 1
 fi
 
+# Script arguments
 lpc_order=$1
 inputfile=$2
 outputfile=$3

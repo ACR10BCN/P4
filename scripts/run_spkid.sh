@@ -86,6 +86,12 @@ compute_lp() {
     done
 }
 
+compute_mfcc() {
+
+    echo caca;
+
+}
+
 #  Set the name of the feature (not needed for feature extraction itself)
 if [[ ! -n "$FEAT" && $# > 0 && "$(type -t compute_$1)" = function ]]; then
     FEAT=$1
