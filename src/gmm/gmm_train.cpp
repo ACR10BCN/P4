@@ -36,6 +36,7 @@ int main(int argc, const char *argv[])
 	float init_threshold=DEF_THR, em_threshold=DEF_THR;
 	int init_method=0;
 
+
 	///Read command line options
 	int retv = read_options(argc, argv, input_dir, input_ext, filenames,
 		nmix, gmm_filename,
