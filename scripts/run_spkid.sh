@@ -104,7 +104,7 @@ compute_mfcc() {
     mkdir  -p `dirname $w/$FEAT/$filename.$FEAT`
     EXEC ="wav2mfcc 8 16 24 $db2/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictos, del MFCC i nº filtres MFCC surt a les diapos del MFCC
         echo $EXEC && $EXEC || exit 1
-
+    done
 }
 
 #  Set the name of the feature (not needed for feature extraction itself)
