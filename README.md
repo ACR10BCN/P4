@@ -32,6 +32,46 @@ ejercicios indicados.
 - Analice el script `wav2lp.sh` y explique la misión de los distintos comandos involucrados en el *pipeline*
   principal (`sox`, `$X2X`, `$FRAME`, `$WINDOW` y `$LPC`). Explique el significado de cada una de las 
   opciones empleadas y de sus valores.
+`sox` :
+El programa sox es pot utilitzar per generar una senyal, sense capcelera, amb el format adecuat a partir d'una altra senyal amb un altre format. A més a més, permet la conversió de senyals guardades en un programa extern. Al fitxer d'entrada se li poden aplicar els paràmetres següents:
+  -t: Tipus de fitxer d'àudio
+   e: Indica la codificació que es vol aplicar
+   b: Indica el número de bits
+   -: Redirecció del output, pipeline
+
+`$X2X` :
+És un programa de SPTK que converteix dades a un diferent format. Els formats d'entrada i sortida són especificats a la línia de comandos. Com per exemple convertir el formats ASCII a float. A la línia de comandos, especifiques el type1, que és el format d'entrada i el type2 que és el de sortida. A més pot afegir dos paràmetres més:
+-r: Especificar l'arrodoniment quan se substitueix un nombre real
+un nombre enter. Per defecte és false.
+-o: Retalla per mínim i màxim del tipus de dades de sortida si s'introdueix
+les dades superen l'interval del tipus de dades de sortida. si l'opció -o
+no es dóna, quan les longituds del tipus de dades són diferents.Per defecte és false.
+%format: Especificar un format de sortida similar a 'printf()', només si el tipus2 és ASCII.
+
+
+`$FRAME`: Converteix una seqüència de dades d'entrada d'un fitxer d'entrada (o entrada estàndard) a una sèrie de fotogrames possiblement superposades amb període P i longitud L, i envia el resultat a la sortida estàndard.
+Té els següents paràmetres:
+
+-l: Longitud de mostres de cada trama. Valor per defecte és de 256.
+-p: Indica el període de les trames. Valor per defecte de 100.
+-n: Aquesta opció s'utilitza quan, en comptes de tenir x(0) com a centre
+punt del primer fotograma, es vol fer que x(0) sigui el primer punt
+del primer fotograma.
+
+`$WINDOW`: Pondera cada trama amb una finestra. Multiplica, element per element, els vectors d'entrada de longitud L des de l'arxiu d'entrada (o entrada estàndard) mitjançant una funció de finestra especificada, enviant el resultat a la sortida estàndard. Té els següents paràmetres:
+
+-l: Longitud trama d'entrada. Valor per defecte de 256
+-L: Longitud trama d'entrada. Valor per defecte és el valor de l'entrada
+-n: Tipos de normalització
+-w: Tipus de finestra. Per defecte és de Blackman
+
+
+`$LPC`: Calcula els coeficients de la predicció linear de cada trama enfinestrada del fitxer d'entrada. Tant la senyal d'entrada com la de sortida tene un format float. L'anàlisi LPC es fa mitjançant el mètode Levinson-Durbin. Té els següents paràmetres:
+
+-l: Longitud de la trama. Valor per defecte de 256
+-m: Ordre del LPC. Valor per defecte de 25
+-f: Valor mínim del determinant. Valor per defecte de 0.000001
+
 
 - Explique el procedimiento seguido para obtener un fichero de formato *fmatrix* a partir de los ficheros de
   salida de SPTK (líneas 45 a 51 del script `wav2lp.sh`).
