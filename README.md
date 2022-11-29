@@ -76,13 +76,25 @@ del primer fotograma.
 - Explique el procedimiento seguido para obtener un fichero de formato *fmatrix* a partir de los ficheros de
   salida de SPTK (líneas 45 a 51 del script `wav2lp.sh`).
 
+`ncol=$((lpc_order+1)) # lpc p =>  (gain a1 a2 ... ap) `
+`nrow=`$X2X +fa < $base.lp | wc -l | perl -ne 'print $_/'$ncol', "\n";'` `
+
+En les primeres línies, procedim a calcular el nombre de files i columnes. Per calcular les columnes (línia 51 del nostre codi), es fa amb l'ordre del predictor més 1. Li sumem aquest 1, ja que en el primer element del vector de predicció, es guarda el guany del predictor. Per calcular el nombre de files (línia 52) necessitem tenir en compte els paràmtres de longitud de la senyal, longitud de la finestra i el desplaçament d'aquesta que li apliquem a la senyal. Llavors, un cop tenim això, amb el comando X2X, convertim les dades de float a ASCII i contem les línies amb el wc -l. Llavors un cop feta la matriu la imprimim.
+
   * ¿Por qué es más conveniente el formato *fmatrix* que el SPTK?
+
+És més pràctic ja que permet veure les dades del fitxer d'una manera que resulta molt més fàcil identificar les trames en cada fila i els coeficients de les senyals en les columnes.
 
 - Escriba el *pipeline* principal usado para calcular los coeficientes cepstrales de predicción lineal
   (LPCC) en su fichero <code>scripts/wav2lpcc.sh</code>:
 
+`sox $inputfile -t raw -e signed -b 16 - | $X2X +sf | $FRAME -l 240 -p 80 | $WINDOW -l 240 -L 240 | $LPC -l 240 -m $lpc_order | $LPCC -m $lpc_order -M $lpcc_order > $base.lpcc`
+   
+
 - Escriba el *pipeline* principal usado para calcular los coeficientes cepstrales en escala Mel (MFCC) en su
   fichero <code>scripts/wav2mfcc.sh</code>:
+
+`sox $inputfile -t raw -e signed -b 16 - | $X2X +sf | $FRAME -l 240 -p 80 | $WINDOW -l 240 -L 240 | $MFCC -s $fm -l 180 -m $mfcc_order -n $melbank_order > $base.mfcc`
 
 ### Extracción de características.
 
