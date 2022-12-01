@@ -129,13 +129,48 @@ En les primeres línies, procedim a calcular el nombre de files i columnes. Per 
 - Usando el programa <code>pearson</code>, obtenga los coeficientes de correlación normalizada entre los
   parámetros 2 y 3 para un locutor, y rellene la tabla siguiente con los valores obtenidos.
 
-  |                        | LP   | LPCC | MFCC |
-  |------------------------|:----:|:----:|:----:|
-  | &rho;<sub>x</sub>[2,3] |      |      |      |
+  Per obtenir el coeficient r[2][3] de lp fem la següent ordre:
+
+  `pearson work/lp/BLOCK00/SES009/*.lp`
+
+  i ens quedem amb el coeficient r[2][3]
+
+<img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/lp_r[2][3].png>
+
+
+ Per obtenir el coeficient r[2][3] de lpcc fem la següent ordre:
+
+  `pearson work/lpcc/BLOCK00/SES009/*.lpcc`
+
+  i ens quedem amb el coeficient r[2][3]
+
+<img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/lpcc_r[2][3].png>
+
+
+
+ Per obtenir el coeficient r[2][3] de mfcc fem la següent ordre:
+
+  `pearson work/mfcc/BLOCK00/SES009/*.mfcc`
+
+  i ens quedem amb el coeficient r[2][3]
+
+<img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/mfcc_r[2][3].png>
+
+
+
+
+  |                        | LP       | LPCC     | MFCC     |
+  |------------------------|:--------:|:--------:|:--------:|
+  | &rho;<sub>x</sub>[2,3] |-0.656595 | 0.316087 |0.135269  |
   
   + Compare los resultados de <code>pearson</code> con los obtenidos gráficamente.
+
+  Podem observar uns valors coherents amb les gràfiques. Ja que, en valor absolut, el valor de lp és el major, el que ens diu que està més correltat. Mentre que els valors de lpccc i mfcc són bastant menors al lp. El que ens indica una major incorrelació, per tant, una menor correlació i això vol dir que ens aportaran una major informació. A més, es pot dir que com s'esperava, els mfcc són els més incorrelats i els que més informació aporten.
   
 - Según la teoría, ¿qué parámetros considera adecuados para el cálculo de los coeficientes LPCC y MFCC?
+
+Pel que respecta a la teoria, pels coeficients lpcc s'acostuma a triar un valor al voltant de 13 coeficients. Mentre que al mfcc s'acostuma a triar 13 coeficients i entre 24-40 filtres.
+
 
 ### Entrenamiento y visualización de los GMM.
 
