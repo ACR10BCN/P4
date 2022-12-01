@@ -169,7 +169,7 @@ En les primeres línies, procedim a calcular el nombre de files i columnes. Per 
   
 - Según la teoría, ¿qué parámetros considera adecuados para el cálculo de los coeficientes LPCC y MFCC?
 
-Pel que respecta a la teoria, pels coeficients lpcc s'acostuma a triar un valor al voltant de 13 coeficients. Mentre que al mfcc s'acostuma a triar 13 coeficients i entre 24-40 filtres.
+  Pel que respecta a la teoria, pels coeficients lpcc s'acostuma a triar un valor al voltant de 13 coeficients. Mentre que al mfcc s'acostuma a triar 13 coeficients i entre 24-40 filtres.
 
 
 ### Entrenamiento y visualización de los GMM.
