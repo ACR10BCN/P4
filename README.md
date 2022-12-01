@@ -103,7 +103,28 @@ En les primeres línies, procedim a calcular el nombre de files i columnes. Per 
   
   + Indique **todas** las órdenes necesarias para obtener las gráficas a partir de las señales 
     parametrizadas.
+
+    *LP:
+
+    <img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/lp.png>
+
+    `plot_gmm_feat -x 2-y 3 work/gmm/lp/SES009.gm work/lp/BLOCK00/SES009/*`
+
+    *LPCC:
+
+    <img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/lpcc.png>
+
+    `plot_gmm_feat -x 2 -y 3 work/gmm/lpcc/SES009.gmm work/lpcc/BLOCK00/SES009/*`
+
+    *MFCC:
+
+    <img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/mfcc.png>
+
+    `plot_gmm_feat -x 2 -y 3 work/gmm/mfcc/SES009.gmm work/mfcc/BLOCK00/SES009/*`
+
   + ¿Cuál de ellas le parece que contiene más información?
+
+  La correlació indica la semblança entre dues senyals. Per tant, com és correlades estiguin menys inforació aportaran. Per tant, les gràfiques amb els punts més separats seran les més incorrelades i en conseqüència, les que més informació aportin. Com es pot observar, les més incorrelades són les del lpcc i del mfcc, per tant, són les que més informació ens aporten. Mentre que la gràfica del lp és la menys icorrelada i en conseqüència, la que menys informació ens aporta.
 
 - Usando el programa <code>pearson</code>, obtenga los coeficientes de correlación normalizada entre los
   parámetros 2 y 3 para un locutor, y rellene la tabla siguiente con los valores obtenidos.
