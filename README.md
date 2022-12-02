@@ -106,19 +106,19 @@ En les primeres línies, procedim a calcular el nombre de files i columnes. Per 
 
     *LP:
 
-    <img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/lp.png>
+    <img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/lp.png>
 
     `plot_gmm_feat -x 2-y 3 work/gmm/lp/SES009.gm work/lp/BLOCK00/SES009/*`
 
     *LPCC:
 
-    <img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/lpcc.png>
+    <img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/lpcc.png>
 
     `plot_gmm_feat -x 2 -y 3 work/gmm/lpcc/SES009.gmm work/lpcc/BLOCK00/SES009/*`
 
     *MFCC:
 
-    <img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/mfcc.png>
+    <img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/mfcc_2.png>
 
     `plot_gmm_feat -x 2 -y 3 work/gmm/mfcc/SES009.gmm work/mfcc/BLOCK00/SES009/*`
 
@@ -135,7 +135,7 @@ En les primeres línies, procedim a calcular el nombre de files i columnes. Per 
 
   i ens quedem amb el coeficient r[2][3]
 
-<img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/lp_r[2][3].png>
+<img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/lp_r[2][3].png>
 
 
  Per obtenir el coeficient r[2][3] de lpcc fem la següent ordre:
@@ -144,7 +144,7 @@ En les primeres línies, procedim a calcular el nombre de files i columnes. Per 
 
   i ens quedem amb el coeficient r[2][3]
 
-<img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/lpcc_r[2][3].png>
+<img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/lpcc_r[2][3].png>
 
 
 
@@ -154,7 +154,7 @@ En les primeres línies, procedim a calcular el nombre de files i columnes. Per 
 
   i ens quedem amb el coeficient r[2][3]
 
-<img src=https://github.com/isibardaji/P4/blob/bardaji-cot/img/mfcc_r[2][3].png>
+<img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/mfcc_r[2][3].png>
 
 
 
@@ -179,9 +179,28 @@ Complete el código necesario para entrenar modelos GMM.
 - Inserte una gráfica que muestre la función de densidad de probabilidad modelada por el GMM de un locutor
   para sus dos primeros coeficientes de MFCC.
 
+
+<img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/mfcc_2primcoef.png>
+
+
+
 - Inserte una gráfica que permita comparar los modelos y poblaciones de dos locutores distintos (la gŕafica
   de la página 20 del enunciado puede servirle de referencia del resultado deseado). Analice la capacidad
   del modelado GMM para diferenciar las señales de uno y otro.
+
+  <img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/mfcc_ses009.png>
+
+  <img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/mfcc_ses09_ses06.png>
+
+  <img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/mfcc_006_009.png>
+
+  <img src=https://github.com/ACR10BCN/P4/tree/bardaji-cot/img/mfcc_006_006.png>
+  
+Per tal de determinar si un locutor coincideix amb una població, han de coincidir les regions amb les poblacions. Per tant, on hi hagi una major concentració de població, hauria de coincidir amb els cercles d'un percentatge menor.
+
+En cada gràfica es poden observar el 99%, el 50% i el 10% de la massa de probabilitat per les GMM dels locutors SES009 en vermell, que serien les dues primeres gràfiques i de SES006 en blau que serien les dues de baix. A més, la primera i la tercera gràfica, en vermell mostren la població de l'usuari SES009 i la segona i última, en blau mostren la població de l'usuari SES006.
+Es pot observar que això ho compleixen les gràfiques on el locutor i població coincideixen. Que són la primera i última. En canvi, la segona on la GMM correspon a SES009 i el locutor a SES006 i en la tercera que la GMM correspon a SES006 i el locutor a SES009 no es compleix. Ja que les regions de massa de probabilitat de les GMM estan desplaçades respecte les zones de més població.
+
 
 ### Reconocimiento del locutor.
 

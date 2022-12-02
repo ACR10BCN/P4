@@ -217,6 +217,9 @@ namespace upc
 			// increase more than inc_threshold.
 
 			new_prob=em_expectation(data, weights);
+			inc_prob=new_prob-old_prob;
+			old_prob=new_prob;
+			if(inc_prob<inc_threshold) break;
 			em_maximization(data, weights);
 			
 			if (verbose & 01)
