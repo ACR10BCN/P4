@@ -104,7 +104,7 @@ compute_mfcc() {
     shift
     for filename in $(sort $*); do
     mkdir  -p `dirname $w/$FEAT/$filename.$FEAT`
-    EXEC ="wav2mfcc 8 16 24 $db2/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictos, del MFCC i nº filtres MFCC surt a les diapos del MFCC
+    EXEC="wav2mfcc 8 16 24 $db2/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictos, del MFCC i nº filtres MFCC surt a les diapos del MFCC
         echo $EXEC && $EXEC || exit 1
     done
 }
@@ -185,7 +185,7 @@ for cmd in $*; do
        fi
        # You can pass the threshold to spk_verif_score.pl or it computes the
        # best one for these particular results.
-       spk_verif_score $LOG_VERIF | tee $LOG_VERIF
+       spk_verif_score $LOG_VERIF | tee -a $LOG_VERIF
 
    elif [[ $cmd == finalclass ]]; then
        ## @file
