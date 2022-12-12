@@ -1,4 +1,4 @@
-#include <unistd.h>				 //getopt function, to parse options
+#include <unistd.h> //getopt function, to parse options
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
