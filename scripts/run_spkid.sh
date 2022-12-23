@@ -136,7 +136,7 @@ for cmd in $*; do
        for dir in $db_devel/BLOCK*/SES* ; do
            name=${dir/*\/}
            echo $name ----
-           EXEC="gmm_train -v 2 -T 0.0001 -N 100 -m 40 -d $w/$FEAT -e $FEAT -g $w/gmm/$FEAT/$name.gmm $lists/class/$name.train"
+           EXEC="gmm_train -v 2 -T 0.0001 -N 50 -m 20 -d $w/$FEAT -e $FEAT -g $w/gmm/$FEAT/$name.gmm $lists/class/$name.train"
            echo $EXEC && $EXEC || exit 1
            echo
        done
@@ -223,7 +223,7 @@ for cmd in $*; do
         echo $EXEC && $EXEC | tee $TEMP_VERIF || exit 1
 
         perl -ane 'print "$F[0]\t$F[1]\t";
-            if ($F[2] > 1.7668493374718) {print "1\n"}
+            if ($F[2] >  0.454964805197504) {print "1\n"}
             else {print "0\n"}' $TEMP_VERIF | tee $FINAL_VERIF
    
    # If the command is not recognize, check if it is the name

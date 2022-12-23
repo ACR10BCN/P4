@@ -209,6 +209,25 @@ Complete el código necesario para realizar reconociminto del locutor y optimice
 - Inserte una tabla con la tasa de error obtenida en el reconocimiento de los locutores de la base de datos
   SPEECON usando su mejor sistema de reconocimiento para los parámetros LP, LPCC y MFCC.
 
+  Ens hem centrat en optimitzar el paràmetre lpcc.
+
+  |                  | LP       | LPCC     | MFCC     |
+  |------------------|:--------:|:--------:|:--------:|
+  | Tassa d'error    |  7.01%   | 0.51%    |  1.51%   |
+  
+
+  Captura tassa d'error LP:
+
+  <img src=https://github.com/ACR10BCN/P4/blob/bardaji-cot/img/error_rate_lp_BO.jpeg>
+
+  Captura tassa d'error LPCC:
+
+  <img src=https://github.com/ACR10BCN/P4/blob/bardaji-cot/img/eror_rateLlpcc_BO.jpeg>
+
+  Captura tassa d'error MFCC:
+
+<img src=https://github.com/ACR10BCN/P4/blob/bardaji-cot/img/error_rate_mfcc.png>
+
 ### Verificación del locutor.
 
 Complete el código necesario para realizar verificación del locutor y optimice sus parámetros.
@@ -218,6 +237,29 @@ Complete el código necesario para realizar verificación del locutor y optimice
   pérdidas, y el score obtenido usando la parametrización que mejor resultado le hubiera dado en la tarea
   de reconocimiento.
  
+  |               | LP              | LPCC             | MFCC            |
+  |---------------|:---------------:|:----------------:|:---------------:|
+  | Umbral òptim  |0.207865901928402|0.0756160438401944|0.454964805197504|
+  |---------------|:---------------:|:----------------:|:---------------:|
+  | Pèrdues       |     0.2640      |       0.0560     |   0.2160        |
+  |---------------|:---------------:|:----------------:|:---------------:|
+  | Falses alarmes|  0.0200         |       0.0110     |   0.0100        |
+  |---------------|:---------------:|:----------------:|:---------------:|
+  | Cost detection|      44.4       |        15.5      |      30.6       |
+  
+  Captura LP:
+
+  <img src=https://github.com/ACR10BCN/P4/blob/bardaji-cot/img/cort_detection_lp_BO.jpeg>
+
+  Captura LPCC:
+
+  <img src=https://github.com/ACR10BCN/P4/blob/bardaji-cot/img/cost_detection_lpcc.jpeg>
+
+  Captura MFCC:
+
+   <img src=https://github.com/ACR10BCN/P4/blob/bardaji-cot/img/cost_detections_mfcc_BO.png>
+
+
 ### Test final
 
 - Adjunte, en el repositorio de la práctica, los ficheros `class_test.log` y `verif_test.log` 
