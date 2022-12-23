@@ -259,6 +259,7 @@ Complete el código necesario para realizar verificación del locutor y optimice
 
    <img src=https://github.com/ACR10BCN/P4/blob/bardaji-cot/img/cost_detections_mfcc_BO.png>
 
+Per tant ens queda que el optimal threshold del LPCC = 0,0756160438401944
 
 ### Test final
 
