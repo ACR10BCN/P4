@@ -84,7 +84,7 @@ compute_lp() {
     shift
     for filename in $(sort $*); do
         mkdir -p `dirname $w/$FEAT/$filename.$FEAT`
-        EXEC="wav2lp 8 $db/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linerar predictor
+        EXEC="wav2lp 15 $db/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linerar predictor
         echo $EXEC && $EXEC || exit 1
     done
 }
@@ -94,7 +94,7 @@ compute_lpcc() {
     shift
     for filename in $(sort $*); do
         mkdir -p `dirname $w/$FEAT/$filename.$FEAT`
-        EXEC="wav2lpcc 8 13 $db1/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictor i del cepstrum
+        EXEC="wav2lpcc 26 27 $db1/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictor i del cepstrum
         echo $EXEC && $EXEC || exit 1
     done
 }
@@ -103,8 +103,8 @@ compute_mfcc() {
     db2=$1
     shift
     for filename in $(sort $*); do
-    mkdir  -p `dirname $w/$FEAT/$filename.$FEAT`
-    EXEC="wav2mfcc 8 16 24 $db2/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictos, del MFCC i nº filtres MFCC surt a les diapos del MFCC
+    mkdir -p `dirname $w/$FEAT/$filename.$FEAT`
+    EXEC="wav2mfcc 16 26 $db2/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictos, del MFCC i nº filtres MFCC surt a les diapos del MFCC
         echo $EXEC && $EXEC || exit 1
     done
 }
