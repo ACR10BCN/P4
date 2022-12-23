@@ -104,7 +104,7 @@ compute_mfcc() {
     shift
     for filename in $(sort $*); do
     mkdir  -p `dirname $w/$FEAT/$filename.$FEAT`
-    EXEC="wav2mfcc 8 30 30 $db2/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictos, del MFCC i nº filtres MFCC surt a les diapos del MFCC
+    EXEC="wav2mfcc 8 20 36 $db2/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictos, del MFCC i nº filtres MFCC surt a les diapos del MFCC
         echo $EXEC && $EXEC || exit 1
     done
 }
@@ -223,7 +223,7 @@ for cmd in $*; do
         echo $EXEC && $EXEC | tee $TEMP_VERIF || exit 1
 
         perl -ane 'print "$F[0]\t$F[1]\t";
-            if ($F[2] > -3.214) {print "1\n"}
+            if ($F[2] > 1.7668493374718) {print "1\n"}
             else {print "0\n"}' $TEMP_VERIF | tee $FINAL_VERIF
    
    # If the command is not recognize, check if it is the name
