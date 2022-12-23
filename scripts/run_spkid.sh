@@ -94,7 +94,7 @@ compute_lpcc() {
     shift
     for filename in $(sort $*); do
         mkdir -p `dirname $w/$FEAT/$filename.$FEAT`
-        EXEC="wav2lpcc 8 26 $db1/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictor i del cepstrum
+        EXEC="wav2lpcc 25 25 $db1/$filename.wav $w/$FEAT/$filename.$FEAT" #ordre del linear predictor i del cepstrum
         echo $EXEC && $EXEC || exit 1
     done
 }
