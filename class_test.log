@@ -1,0 +1,2341 @@
+sáb 24 dic 2022 16:23:19 CET: finalclass ---
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0000.wav work/lpcc/spk_cls/c00/c0000.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0001.wav work/lpcc/spk_cls/c00/c0001.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0002.wav work/lpcc/spk_cls/c00/c0002.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0003.wav work/lpcc/spk_cls/c00/c0003.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0004.wav work/lpcc/spk_cls/c00/c0004.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0005.wav work/lpcc/spk_cls/c00/c0005.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0006.wav work/lpcc/spk_cls/c00/c0006.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0007.wav work/lpcc/spk_cls/c00/c0007.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0008.wav work/lpcc/spk_cls/c00/c0008.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0009.wav work/lpcc/spk_cls/c00/c0009.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0010.wav work/lpcc/spk_cls/c00/c0010.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0011.wav work/lpcc/spk_cls/c00/c0011.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0012.wav work/lpcc/spk_cls/c00/c0012.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0013.wav work/lpcc/spk_cls/c00/c0013.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0014.wav work/lpcc/spk_cls/c00/c0014.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0015.wav work/lpcc/spk_cls/c00/c0015.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0016.wav work/lpcc/spk_cls/c00/c0016.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0017.wav work/lpcc/spk_cls/c00/c0017.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0018.wav work/lpcc/spk_cls/c00/c0018.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0019.wav work/lpcc/spk_cls/c00/c0019.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0020.wav work/lpcc/spk_cls/c00/c0020.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0021.wav work/lpcc/spk_cls/c00/c0021.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0022.wav work/lpcc/spk_cls/c00/c0022.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0023.wav work/lpcc/spk_cls/c00/c0023.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0024.wav work/lpcc/spk_cls/c00/c0024.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0025.wav work/lpcc/spk_cls/c00/c0025.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0026.wav work/lpcc/spk_cls/c00/c0026.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0027.wav work/lpcc/spk_cls/c00/c0027.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0028.wav work/lpcc/spk_cls/c00/c0028.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0029.wav work/lpcc/spk_cls/c00/c0029.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0030.wav work/lpcc/spk_cls/c00/c0030.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0031.wav work/lpcc/spk_cls/c00/c0031.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0032.wav work/lpcc/spk_cls/c00/c0032.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0033.wav work/lpcc/spk_cls/c00/c0033.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0034.wav work/lpcc/spk_cls/c00/c0034.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0035.wav work/lpcc/spk_cls/c00/c0035.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0036.wav work/lpcc/spk_cls/c00/c0036.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0037.wav work/lpcc/spk_cls/c00/c0037.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0038.wav work/lpcc/spk_cls/c00/c0038.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0039.wav work/lpcc/spk_cls/c00/c0039.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0040.wav work/lpcc/spk_cls/c00/c0040.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0041.wav work/lpcc/spk_cls/c00/c0041.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0042.wav work/lpcc/spk_cls/c00/c0042.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0043.wav work/lpcc/spk_cls/c00/c0043.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0044.wav work/lpcc/spk_cls/c00/c0044.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0045.wav work/lpcc/spk_cls/c00/c0045.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0046.wav work/lpcc/spk_cls/c00/c0046.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0047.wav work/lpcc/spk_cls/c00/c0047.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0048.wav work/lpcc/spk_cls/c00/c0048.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0049.wav work/lpcc/spk_cls/c00/c0049.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0050.wav work/lpcc/spk_cls/c00/c0050.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0051.wav work/lpcc/spk_cls/c00/c0051.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0052.wav work/lpcc/spk_cls/c00/c0052.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0053.wav work/lpcc/spk_cls/c00/c0053.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0054.wav work/lpcc/spk_cls/c00/c0054.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0055.wav work/lpcc/spk_cls/c00/c0055.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0056.wav work/lpcc/spk_cls/c00/c0056.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0057.wav work/lpcc/spk_cls/c00/c0057.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0058.wav work/lpcc/spk_cls/c00/c0058.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0059.wav work/lpcc/spk_cls/c00/c0059.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0060.wav work/lpcc/spk_cls/c00/c0060.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0061.wav work/lpcc/spk_cls/c00/c0061.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0062.wav work/lpcc/spk_cls/c00/c0062.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0063.wav work/lpcc/spk_cls/c00/c0063.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0064.wav work/lpcc/spk_cls/c00/c0064.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0065.wav work/lpcc/spk_cls/c00/c0065.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0066.wav work/lpcc/spk_cls/c00/c0066.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0067.wav work/lpcc/spk_cls/c00/c0067.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0068.wav work/lpcc/spk_cls/c00/c0068.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0069.wav work/lpcc/spk_cls/c00/c0069.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0070.wav work/lpcc/spk_cls/c00/c0070.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0071.wav work/lpcc/spk_cls/c00/c0071.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0072.wav work/lpcc/spk_cls/c00/c0072.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0073.wav work/lpcc/spk_cls/c00/c0073.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0074.wav work/lpcc/spk_cls/c00/c0074.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0075.wav work/lpcc/spk_cls/c00/c0075.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0076.wav work/lpcc/spk_cls/c00/c0076.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0077.wav work/lpcc/spk_cls/c00/c0077.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0078.wav work/lpcc/spk_cls/c00/c0078.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0079.wav work/lpcc/spk_cls/c00/c0079.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0080.wav work/lpcc/spk_cls/c00/c0080.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0081.wav work/lpcc/spk_cls/c00/c0081.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0082.wav work/lpcc/spk_cls/c00/c0082.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0083.wav work/lpcc/spk_cls/c00/c0083.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0084.wav work/lpcc/spk_cls/c00/c0084.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0085.wav work/lpcc/spk_cls/c00/c0085.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0086.wav work/lpcc/spk_cls/c00/c0086.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0087.wav work/lpcc/spk_cls/c00/c0087.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0088.wav work/lpcc/spk_cls/c00/c0088.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0089.wav work/lpcc/spk_cls/c00/c0089.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0090.wav work/lpcc/spk_cls/c00/c0090.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0091.wav work/lpcc/spk_cls/c00/c0091.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0092.wav work/lpcc/spk_cls/c00/c0092.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0093.wav work/lpcc/spk_cls/c00/c0093.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0094.wav work/lpcc/spk_cls/c00/c0094.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0095.wav work/lpcc/spk_cls/c00/c0095.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0096.wav work/lpcc/spk_cls/c00/c0096.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0097.wav work/lpcc/spk_cls/c00/c0097.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0098.wav work/lpcc/spk_cls/c00/c0098.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0099.wav work/lpcc/spk_cls/c00/c0099.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0100.wav work/lpcc/spk_cls/c01/c0100.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0101.wav work/lpcc/spk_cls/c01/c0101.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0102.wav work/lpcc/spk_cls/c01/c0102.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0103.wav work/lpcc/spk_cls/c01/c0103.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0104.wav work/lpcc/spk_cls/c01/c0104.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0105.wav work/lpcc/spk_cls/c01/c0105.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0106.wav work/lpcc/spk_cls/c01/c0106.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0107.wav work/lpcc/spk_cls/c01/c0107.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0108.wav work/lpcc/spk_cls/c01/c0108.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0109.wav work/lpcc/spk_cls/c01/c0109.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0110.wav work/lpcc/spk_cls/c01/c0110.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0111.wav work/lpcc/spk_cls/c01/c0111.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0112.wav work/lpcc/spk_cls/c01/c0112.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0113.wav work/lpcc/spk_cls/c01/c0113.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0114.wav work/lpcc/spk_cls/c01/c0114.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0115.wav work/lpcc/spk_cls/c01/c0115.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0116.wav work/lpcc/spk_cls/c01/c0116.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0117.wav work/lpcc/spk_cls/c01/c0117.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0118.wav work/lpcc/spk_cls/c01/c0118.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0119.wav work/lpcc/spk_cls/c01/c0119.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0120.wav work/lpcc/spk_cls/c01/c0120.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0121.wav work/lpcc/spk_cls/c01/c0121.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0122.wav work/lpcc/spk_cls/c01/c0122.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0123.wav work/lpcc/spk_cls/c01/c0123.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0124.wav work/lpcc/spk_cls/c01/c0124.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0125.wav work/lpcc/spk_cls/c01/c0125.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0126.wav work/lpcc/spk_cls/c01/c0126.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0127.wav work/lpcc/spk_cls/c01/c0127.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0128.wav work/lpcc/spk_cls/c01/c0128.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0129.wav work/lpcc/spk_cls/c01/c0129.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0130.wav work/lpcc/spk_cls/c01/c0130.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0131.wav work/lpcc/spk_cls/c01/c0131.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0132.wav work/lpcc/spk_cls/c01/c0132.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0133.wav work/lpcc/spk_cls/c01/c0133.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0134.wav work/lpcc/spk_cls/c01/c0134.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0135.wav work/lpcc/spk_cls/c01/c0135.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0136.wav work/lpcc/spk_cls/c01/c0136.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0137.wav work/lpcc/spk_cls/c01/c0137.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0138.wav work/lpcc/spk_cls/c01/c0138.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0139.wav work/lpcc/spk_cls/c01/c0139.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0140.wav work/lpcc/spk_cls/c01/c0140.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0141.wav work/lpcc/spk_cls/c01/c0141.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0142.wav work/lpcc/spk_cls/c01/c0142.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0143.wav work/lpcc/spk_cls/c01/c0143.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0144.wav work/lpcc/spk_cls/c01/c0144.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0145.wav work/lpcc/spk_cls/c01/c0145.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0146.wav work/lpcc/spk_cls/c01/c0146.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0147.wav work/lpcc/spk_cls/c01/c0147.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0148.wav work/lpcc/spk_cls/c01/c0148.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0149.wav work/lpcc/spk_cls/c01/c0149.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0150.wav work/lpcc/spk_cls/c01/c0150.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0151.wav work/lpcc/spk_cls/c01/c0151.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0152.wav work/lpcc/spk_cls/c01/c0152.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0153.wav work/lpcc/spk_cls/c01/c0153.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0154.wav work/lpcc/spk_cls/c01/c0154.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0155.wav work/lpcc/spk_cls/c01/c0155.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0156.wav work/lpcc/spk_cls/c01/c0156.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0157.wav work/lpcc/spk_cls/c01/c0157.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0158.wav work/lpcc/spk_cls/c01/c0158.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0159.wav work/lpcc/spk_cls/c01/c0159.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0160.wav work/lpcc/spk_cls/c01/c0160.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0161.wav work/lpcc/spk_cls/c01/c0161.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0162.wav work/lpcc/spk_cls/c01/c0162.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0163.wav work/lpcc/spk_cls/c01/c0163.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0164.wav work/lpcc/spk_cls/c01/c0164.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0165.wav work/lpcc/spk_cls/c01/c0165.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0166.wav work/lpcc/spk_cls/c01/c0166.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0167.wav work/lpcc/spk_cls/c01/c0167.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0168.wav work/lpcc/spk_cls/c01/c0168.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0169.wav work/lpcc/spk_cls/c01/c0169.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0170.wav work/lpcc/spk_cls/c01/c0170.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0171.wav work/lpcc/spk_cls/c01/c0171.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0172.wav work/lpcc/spk_cls/c01/c0172.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0173.wav work/lpcc/spk_cls/c01/c0173.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0174.wav work/lpcc/spk_cls/c01/c0174.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0175.wav work/lpcc/spk_cls/c01/c0175.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0176.wav work/lpcc/spk_cls/c01/c0176.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0177.wav work/lpcc/spk_cls/c01/c0177.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0178.wav work/lpcc/spk_cls/c01/c0178.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0179.wav work/lpcc/spk_cls/c01/c0179.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0180.wav work/lpcc/spk_cls/c01/c0180.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0181.wav work/lpcc/spk_cls/c01/c0181.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0182.wav work/lpcc/spk_cls/c01/c0182.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0183.wav work/lpcc/spk_cls/c01/c0183.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0184.wav work/lpcc/spk_cls/c01/c0184.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0185.wav work/lpcc/spk_cls/c01/c0185.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0186.wav work/lpcc/spk_cls/c01/c0186.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0187.wav work/lpcc/spk_cls/c01/c0187.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0188.wav work/lpcc/spk_cls/c01/c0188.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0189.wav work/lpcc/spk_cls/c01/c0189.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0190.wav work/lpcc/spk_cls/c01/c0190.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0191.wav work/lpcc/spk_cls/c01/c0191.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0192.wav work/lpcc/spk_cls/c01/c0192.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0193.wav work/lpcc/spk_cls/c01/c0193.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0194.wav work/lpcc/spk_cls/c01/c0194.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0195.wav work/lpcc/spk_cls/c01/c0195.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0196.wav work/lpcc/spk_cls/c01/c0196.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0197.wav work/lpcc/spk_cls/c01/c0197.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0198.wav work/lpcc/spk_cls/c01/c0198.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c01/c0199.wav work/lpcc/spk_cls/c01/c0199.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0200.wav work/lpcc/spk_cls/c02/c0200.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0201.wav work/lpcc/spk_cls/c02/c0201.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0202.wav work/lpcc/spk_cls/c02/c0202.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0203.wav work/lpcc/spk_cls/c02/c0203.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0204.wav work/lpcc/spk_cls/c02/c0204.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0205.wav work/lpcc/spk_cls/c02/c0205.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0206.wav work/lpcc/spk_cls/c02/c0206.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0207.wav work/lpcc/spk_cls/c02/c0207.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0208.wav work/lpcc/spk_cls/c02/c0208.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0209.wav work/lpcc/spk_cls/c02/c0209.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0210.wav work/lpcc/spk_cls/c02/c0210.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0211.wav work/lpcc/spk_cls/c02/c0211.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0212.wav work/lpcc/spk_cls/c02/c0212.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0213.wav work/lpcc/spk_cls/c02/c0213.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0214.wav work/lpcc/spk_cls/c02/c0214.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0215.wav work/lpcc/spk_cls/c02/c0215.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0216.wav work/lpcc/spk_cls/c02/c0216.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0217.wav work/lpcc/spk_cls/c02/c0217.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0218.wav work/lpcc/spk_cls/c02/c0218.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0219.wav work/lpcc/spk_cls/c02/c0219.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0220.wav work/lpcc/spk_cls/c02/c0220.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0221.wav work/lpcc/spk_cls/c02/c0221.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0222.wav work/lpcc/spk_cls/c02/c0222.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0223.wav work/lpcc/spk_cls/c02/c0223.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0224.wav work/lpcc/spk_cls/c02/c0224.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0225.wav work/lpcc/spk_cls/c02/c0225.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0226.wav work/lpcc/spk_cls/c02/c0226.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0227.wav work/lpcc/spk_cls/c02/c0227.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0228.wav work/lpcc/spk_cls/c02/c0228.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0229.wav work/lpcc/spk_cls/c02/c0229.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0230.wav work/lpcc/spk_cls/c02/c0230.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0231.wav work/lpcc/spk_cls/c02/c0231.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0232.wav work/lpcc/spk_cls/c02/c0232.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0233.wav work/lpcc/spk_cls/c02/c0233.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0234.wav work/lpcc/spk_cls/c02/c0234.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0235.wav work/lpcc/spk_cls/c02/c0235.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0236.wav work/lpcc/spk_cls/c02/c0236.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0237.wav work/lpcc/spk_cls/c02/c0237.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0238.wav work/lpcc/spk_cls/c02/c0238.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0239.wav work/lpcc/spk_cls/c02/c0239.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0240.wav work/lpcc/spk_cls/c02/c0240.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0241.wav work/lpcc/spk_cls/c02/c0241.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0242.wav work/lpcc/spk_cls/c02/c0242.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0243.wav work/lpcc/spk_cls/c02/c0243.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0244.wav work/lpcc/spk_cls/c02/c0244.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0245.wav work/lpcc/spk_cls/c02/c0245.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0246.wav work/lpcc/spk_cls/c02/c0246.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0247.wav work/lpcc/spk_cls/c02/c0247.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0248.wav work/lpcc/spk_cls/c02/c0248.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0249.wav work/lpcc/spk_cls/c02/c0249.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0250.wav work/lpcc/spk_cls/c02/c0250.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0251.wav work/lpcc/spk_cls/c02/c0251.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0252.wav work/lpcc/spk_cls/c02/c0252.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0253.wav work/lpcc/spk_cls/c02/c0253.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0254.wav work/lpcc/spk_cls/c02/c0254.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0255.wav work/lpcc/spk_cls/c02/c0255.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0256.wav work/lpcc/spk_cls/c02/c0256.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0257.wav work/lpcc/spk_cls/c02/c0257.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0258.wav work/lpcc/spk_cls/c02/c0258.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0259.wav work/lpcc/spk_cls/c02/c0259.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0260.wav work/lpcc/spk_cls/c02/c0260.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0261.wav work/lpcc/spk_cls/c02/c0261.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0262.wav work/lpcc/spk_cls/c02/c0262.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0263.wav work/lpcc/spk_cls/c02/c0263.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0264.wav work/lpcc/spk_cls/c02/c0264.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0265.wav work/lpcc/spk_cls/c02/c0265.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0266.wav work/lpcc/spk_cls/c02/c0266.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0267.wav work/lpcc/spk_cls/c02/c0267.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0268.wav work/lpcc/spk_cls/c02/c0268.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0269.wav work/lpcc/spk_cls/c02/c0269.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0270.wav work/lpcc/spk_cls/c02/c0270.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0271.wav work/lpcc/spk_cls/c02/c0271.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0272.wav work/lpcc/spk_cls/c02/c0272.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0273.wav work/lpcc/spk_cls/c02/c0273.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0274.wav work/lpcc/spk_cls/c02/c0274.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0275.wav work/lpcc/spk_cls/c02/c0275.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0276.wav work/lpcc/spk_cls/c02/c0276.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0277.wav work/lpcc/spk_cls/c02/c0277.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0278.wav work/lpcc/spk_cls/c02/c0278.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0279.wav work/lpcc/spk_cls/c02/c0279.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0280.wav work/lpcc/spk_cls/c02/c0280.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0281.wav work/lpcc/spk_cls/c02/c0281.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0282.wav work/lpcc/spk_cls/c02/c0282.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0283.wav work/lpcc/spk_cls/c02/c0283.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0284.wav work/lpcc/spk_cls/c02/c0284.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0285.wav work/lpcc/spk_cls/c02/c0285.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0286.wav work/lpcc/spk_cls/c02/c0286.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0287.wav work/lpcc/spk_cls/c02/c0287.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0288.wav work/lpcc/spk_cls/c02/c0288.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0289.wav work/lpcc/spk_cls/c02/c0289.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0290.wav work/lpcc/spk_cls/c02/c0290.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0291.wav work/lpcc/spk_cls/c02/c0291.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0292.wav work/lpcc/spk_cls/c02/c0292.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0293.wav work/lpcc/spk_cls/c02/c0293.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0294.wav work/lpcc/spk_cls/c02/c0294.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0295.wav work/lpcc/spk_cls/c02/c0295.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0296.wav work/lpcc/spk_cls/c02/c0296.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0297.wav work/lpcc/spk_cls/c02/c0297.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0298.wav work/lpcc/spk_cls/c02/c0298.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c02/c0299.wav work/lpcc/spk_cls/c02/c0299.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0300.wav work/lpcc/spk_cls/c03/c0300.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0301.wav work/lpcc/spk_cls/c03/c0301.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0302.wav work/lpcc/spk_cls/c03/c0302.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0303.wav work/lpcc/spk_cls/c03/c0303.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0304.wav work/lpcc/spk_cls/c03/c0304.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0305.wav work/lpcc/spk_cls/c03/c0305.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0306.wav work/lpcc/spk_cls/c03/c0306.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0307.wav work/lpcc/spk_cls/c03/c0307.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0308.wav work/lpcc/spk_cls/c03/c0308.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0309.wav work/lpcc/spk_cls/c03/c0309.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0310.wav work/lpcc/spk_cls/c03/c0310.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0311.wav work/lpcc/spk_cls/c03/c0311.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0312.wav work/lpcc/spk_cls/c03/c0312.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0313.wav work/lpcc/spk_cls/c03/c0313.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0314.wav work/lpcc/spk_cls/c03/c0314.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0315.wav work/lpcc/spk_cls/c03/c0315.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0316.wav work/lpcc/spk_cls/c03/c0316.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0317.wav work/lpcc/spk_cls/c03/c0317.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0318.wav work/lpcc/spk_cls/c03/c0318.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0319.wav work/lpcc/spk_cls/c03/c0319.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0320.wav work/lpcc/spk_cls/c03/c0320.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0321.wav work/lpcc/spk_cls/c03/c0321.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0322.wav work/lpcc/spk_cls/c03/c0322.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0323.wav work/lpcc/spk_cls/c03/c0323.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0324.wav work/lpcc/spk_cls/c03/c0324.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0325.wav work/lpcc/spk_cls/c03/c0325.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0326.wav work/lpcc/spk_cls/c03/c0326.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0327.wav work/lpcc/spk_cls/c03/c0327.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0328.wav work/lpcc/spk_cls/c03/c0328.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0329.wav work/lpcc/spk_cls/c03/c0329.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0330.wav work/lpcc/spk_cls/c03/c0330.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0331.wav work/lpcc/spk_cls/c03/c0331.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0332.wav work/lpcc/spk_cls/c03/c0332.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0333.wav work/lpcc/spk_cls/c03/c0333.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0334.wav work/lpcc/spk_cls/c03/c0334.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0335.wav work/lpcc/spk_cls/c03/c0335.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0336.wav work/lpcc/spk_cls/c03/c0336.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0337.wav work/lpcc/spk_cls/c03/c0337.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0338.wav work/lpcc/spk_cls/c03/c0338.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0339.wav work/lpcc/spk_cls/c03/c0339.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0340.wav work/lpcc/spk_cls/c03/c0340.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0341.wav work/lpcc/spk_cls/c03/c0341.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0342.wav work/lpcc/spk_cls/c03/c0342.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0343.wav work/lpcc/spk_cls/c03/c0343.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0344.wav work/lpcc/spk_cls/c03/c0344.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0345.wav work/lpcc/spk_cls/c03/c0345.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0346.wav work/lpcc/spk_cls/c03/c0346.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0347.wav work/lpcc/spk_cls/c03/c0347.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0348.wav work/lpcc/spk_cls/c03/c0348.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0349.wav work/lpcc/spk_cls/c03/c0349.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0350.wav work/lpcc/spk_cls/c03/c0350.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0351.wav work/lpcc/spk_cls/c03/c0351.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0352.wav work/lpcc/spk_cls/c03/c0352.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0353.wav work/lpcc/spk_cls/c03/c0353.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0354.wav work/lpcc/spk_cls/c03/c0354.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0355.wav work/lpcc/spk_cls/c03/c0355.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0356.wav work/lpcc/spk_cls/c03/c0356.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0357.wav work/lpcc/spk_cls/c03/c0357.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0358.wav work/lpcc/spk_cls/c03/c0358.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0359.wav work/lpcc/spk_cls/c03/c0359.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0360.wav work/lpcc/spk_cls/c03/c0360.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0361.wav work/lpcc/spk_cls/c03/c0361.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0362.wav work/lpcc/spk_cls/c03/c0362.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0363.wav work/lpcc/spk_cls/c03/c0363.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0364.wav work/lpcc/spk_cls/c03/c0364.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0365.wav work/lpcc/spk_cls/c03/c0365.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0366.wav work/lpcc/spk_cls/c03/c0366.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0367.wav work/lpcc/spk_cls/c03/c0367.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0368.wav work/lpcc/spk_cls/c03/c0368.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0369.wav work/lpcc/spk_cls/c03/c0369.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0370.wav work/lpcc/spk_cls/c03/c0370.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0371.wav work/lpcc/spk_cls/c03/c0371.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0372.wav work/lpcc/spk_cls/c03/c0372.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0373.wav work/lpcc/spk_cls/c03/c0373.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0374.wav work/lpcc/spk_cls/c03/c0374.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0375.wav work/lpcc/spk_cls/c03/c0375.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0376.wav work/lpcc/spk_cls/c03/c0376.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0377.wav work/lpcc/spk_cls/c03/c0377.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0378.wav work/lpcc/spk_cls/c03/c0378.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0379.wav work/lpcc/spk_cls/c03/c0379.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0380.wav work/lpcc/spk_cls/c03/c0380.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0381.wav work/lpcc/spk_cls/c03/c0381.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0382.wav work/lpcc/spk_cls/c03/c0382.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0383.wav work/lpcc/spk_cls/c03/c0383.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0384.wav work/lpcc/spk_cls/c03/c0384.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0385.wav work/lpcc/spk_cls/c03/c0385.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0386.wav work/lpcc/spk_cls/c03/c0386.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0387.wav work/lpcc/spk_cls/c03/c0387.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0388.wav work/lpcc/spk_cls/c03/c0388.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0389.wav work/lpcc/spk_cls/c03/c0389.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0390.wav work/lpcc/spk_cls/c03/c0390.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0391.wav work/lpcc/spk_cls/c03/c0391.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0392.wav work/lpcc/spk_cls/c03/c0392.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0393.wav work/lpcc/spk_cls/c03/c0393.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0394.wav work/lpcc/spk_cls/c03/c0394.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0395.wav work/lpcc/spk_cls/c03/c0395.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0396.wav work/lpcc/spk_cls/c03/c0396.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0397.wav work/lpcc/spk_cls/c03/c0397.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0398.wav work/lpcc/spk_cls/c03/c0398.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c03/c0399.wav work/lpcc/spk_cls/c03/c0399.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0400.wav work/lpcc/spk_cls/c04/c0400.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0401.wav work/lpcc/spk_cls/c04/c0401.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0402.wav work/lpcc/spk_cls/c04/c0402.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0403.wav work/lpcc/spk_cls/c04/c0403.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0404.wav work/lpcc/spk_cls/c04/c0404.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0405.wav work/lpcc/spk_cls/c04/c0405.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0406.wav work/lpcc/spk_cls/c04/c0406.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0407.wav work/lpcc/spk_cls/c04/c0407.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0408.wav work/lpcc/spk_cls/c04/c0408.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0409.wav work/lpcc/spk_cls/c04/c0409.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0410.wav work/lpcc/spk_cls/c04/c0410.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0411.wav work/lpcc/spk_cls/c04/c0411.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0412.wav work/lpcc/spk_cls/c04/c0412.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0413.wav work/lpcc/spk_cls/c04/c0413.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0414.wav work/lpcc/spk_cls/c04/c0414.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0415.wav work/lpcc/spk_cls/c04/c0415.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0416.wav work/lpcc/spk_cls/c04/c0416.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0417.wav work/lpcc/spk_cls/c04/c0417.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0418.wav work/lpcc/spk_cls/c04/c0418.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0419.wav work/lpcc/spk_cls/c04/c0419.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0420.wav work/lpcc/spk_cls/c04/c0420.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0421.wav work/lpcc/spk_cls/c04/c0421.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0422.wav work/lpcc/spk_cls/c04/c0422.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0423.wav work/lpcc/spk_cls/c04/c0423.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0424.wav work/lpcc/spk_cls/c04/c0424.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0425.wav work/lpcc/spk_cls/c04/c0425.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0426.wav work/lpcc/spk_cls/c04/c0426.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0427.wav work/lpcc/spk_cls/c04/c0427.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0428.wav work/lpcc/spk_cls/c04/c0428.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0429.wav work/lpcc/spk_cls/c04/c0429.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0430.wav work/lpcc/spk_cls/c04/c0430.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0431.wav work/lpcc/spk_cls/c04/c0431.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0432.wav work/lpcc/spk_cls/c04/c0432.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0433.wav work/lpcc/spk_cls/c04/c0433.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0434.wav work/lpcc/spk_cls/c04/c0434.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0435.wav work/lpcc/spk_cls/c04/c0435.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0436.wav work/lpcc/spk_cls/c04/c0436.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0437.wav work/lpcc/spk_cls/c04/c0437.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0438.wav work/lpcc/spk_cls/c04/c0438.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0439.wav work/lpcc/spk_cls/c04/c0439.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0440.wav work/lpcc/spk_cls/c04/c0440.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0441.wav work/lpcc/spk_cls/c04/c0441.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0442.wav work/lpcc/spk_cls/c04/c0442.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0443.wav work/lpcc/spk_cls/c04/c0443.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0444.wav work/lpcc/spk_cls/c04/c0444.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0445.wav work/lpcc/spk_cls/c04/c0445.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0446.wav work/lpcc/spk_cls/c04/c0446.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0447.wav work/lpcc/spk_cls/c04/c0447.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0448.wav work/lpcc/spk_cls/c04/c0448.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0449.wav work/lpcc/spk_cls/c04/c0449.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0450.wav work/lpcc/spk_cls/c04/c0450.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0451.wav work/lpcc/spk_cls/c04/c0451.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0452.wav work/lpcc/spk_cls/c04/c0452.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0453.wav work/lpcc/spk_cls/c04/c0453.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0454.wav work/lpcc/spk_cls/c04/c0454.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0455.wav work/lpcc/spk_cls/c04/c0455.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0456.wav work/lpcc/spk_cls/c04/c0456.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0457.wav work/lpcc/spk_cls/c04/c0457.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0458.wav work/lpcc/spk_cls/c04/c0458.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0459.wav work/lpcc/spk_cls/c04/c0459.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0460.wav work/lpcc/spk_cls/c04/c0460.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0461.wav work/lpcc/spk_cls/c04/c0461.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0462.wav work/lpcc/spk_cls/c04/c0462.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0463.wav work/lpcc/spk_cls/c04/c0463.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0464.wav work/lpcc/spk_cls/c04/c0464.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0465.wav work/lpcc/spk_cls/c04/c0465.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0466.wav work/lpcc/spk_cls/c04/c0466.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0467.wav work/lpcc/spk_cls/c04/c0467.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0468.wav work/lpcc/spk_cls/c04/c0468.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0469.wav work/lpcc/spk_cls/c04/c0469.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0470.wav work/lpcc/spk_cls/c04/c0470.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0471.wav work/lpcc/spk_cls/c04/c0471.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0472.wav work/lpcc/spk_cls/c04/c0472.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0473.wav work/lpcc/spk_cls/c04/c0473.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0474.wav work/lpcc/spk_cls/c04/c0474.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0475.wav work/lpcc/spk_cls/c04/c0475.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0476.wav work/lpcc/spk_cls/c04/c0476.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0477.wav work/lpcc/spk_cls/c04/c0477.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0478.wav work/lpcc/spk_cls/c04/c0478.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0479.wav work/lpcc/spk_cls/c04/c0479.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0480.wav work/lpcc/spk_cls/c04/c0480.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0481.wav work/lpcc/spk_cls/c04/c0481.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0482.wav work/lpcc/spk_cls/c04/c0482.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0483.wav work/lpcc/spk_cls/c04/c0483.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0484.wav work/lpcc/spk_cls/c04/c0484.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0485.wav work/lpcc/spk_cls/c04/c0485.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0486.wav work/lpcc/spk_cls/c04/c0486.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0487.wav work/lpcc/spk_cls/c04/c0487.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0488.wav work/lpcc/spk_cls/c04/c0488.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0489.wav work/lpcc/spk_cls/c04/c0489.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0490.wav work/lpcc/spk_cls/c04/c0490.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0491.wav work/lpcc/spk_cls/c04/c0491.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0492.wav work/lpcc/spk_cls/c04/c0492.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0493.wav work/lpcc/spk_cls/c04/c0493.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0494.wav work/lpcc/spk_cls/c04/c0494.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0495.wav work/lpcc/spk_cls/c04/c0495.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0496.wav work/lpcc/spk_cls/c04/c0496.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0497.wav work/lpcc/spk_cls/c04/c0497.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0498.wav work/lpcc/spk_cls/c04/c0498.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c04/c0499.wav work/lpcc/spk_cls/c04/c0499.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0500.wav work/lpcc/spk_cls/c05/c0500.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0501.wav work/lpcc/spk_cls/c05/c0501.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0502.wav work/lpcc/spk_cls/c05/c0502.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0503.wav work/lpcc/spk_cls/c05/c0503.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0504.wav work/lpcc/spk_cls/c05/c0504.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0505.wav work/lpcc/spk_cls/c05/c0505.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0506.wav work/lpcc/spk_cls/c05/c0506.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0507.wav work/lpcc/spk_cls/c05/c0507.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0508.wav work/lpcc/spk_cls/c05/c0508.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0509.wav work/lpcc/spk_cls/c05/c0509.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0510.wav work/lpcc/spk_cls/c05/c0510.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0511.wav work/lpcc/spk_cls/c05/c0511.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0512.wav work/lpcc/spk_cls/c05/c0512.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0513.wav work/lpcc/spk_cls/c05/c0513.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0514.wav work/lpcc/spk_cls/c05/c0514.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0515.wav work/lpcc/spk_cls/c05/c0515.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0516.wav work/lpcc/spk_cls/c05/c0516.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0517.wav work/lpcc/spk_cls/c05/c0517.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0518.wav work/lpcc/spk_cls/c05/c0518.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0519.wav work/lpcc/spk_cls/c05/c0519.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0520.wav work/lpcc/spk_cls/c05/c0520.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0521.wav work/lpcc/spk_cls/c05/c0521.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0522.wav work/lpcc/spk_cls/c05/c0522.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0523.wav work/lpcc/spk_cls/c05/c0523.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0524.wav work/lpcc/spk_cls/c05/c0524.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0525.wav work/lpcc/spk_cls/c05/c0525.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0526.wav work/lpcc/spk_cls/c05/c0526.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0527.wav work/lpcc/spk_cls/c05/c0527.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0528.wav work/lpcc/spk_cls/c05/c0528.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0529.wav work/lpcc/spk_cls/c05/c0529.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0530.wav work/lpcc/spk_cls/c05/c0530.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0531.wav work/lpcc/spk_cls/c05/c0531.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0532.wav work/lpcc/spk_cls/c05/c0532.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0533.wav work/lpcc/spk_cls/c05/c0533.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0534.wav work/lpcc/spk_cls/c05/c0534.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0535.wav work/lpcc/spk_cls/c05/c0535.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0536.wav work/lpcc/spk_cls/c05/c0536.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0537.wav work/lpcc/spk_cls/c05/c0537.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0538.wav work/lpcc/spk_cls/c05/c0538.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0539.wav work/lpcc/spk_cls/c05/c0539.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0540.wav work/lpcc/spk_cls/c05/c0540.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0541.wav work/lpcc/spk_cls/c05/c0541.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0542.wav work/lpcc/spk_cls/c05/c0542.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0543.wav work/lpcc/spk_cls/c05/c0543.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0544.wav work/lpcc/spk_cls/c05/c0544.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0545.wav work/lpcc/spk_cls/c05/c0545.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0546.wav work/lpcc/spk_cls/c05/c0546.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0547.wav work/lpcc/spk_cls/c05/c0547.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0548.wav work/lpcc/spk_cls/c05/c0548.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0549.wav work/lpcc/spk_cls/c05/c0549.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0550.wav work/lpcc/spk_cls/c05/c0550.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0551.wav work/lpcc/spk_cls/c05/c0551.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0552.wav work/lpcc/spk_cls/c05/c0552.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0553.wav work/lpcc/spk_cls/c05/c0553.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0554.wav work/lpcc/spk_cls/c05/c0554.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0555.wav work/lpcc/spk_cls/c05/c0555.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0556.wav work/lpcc/spk_cls/c05/c0556.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0557.wav work/lpcc/spk_cls/c05/c0557.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0558.wav work/lpcc/spk_cls/c05/c0558.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0559.wav work/lpcc/spk_cls/c05/c0559.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0560.wav work/lpcc/spk_cls/c05/c0560.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0561.wav work/lpcc/spk_cls/c05/c0561.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0562.wav work/lpcc/spk_cls/c05/c0562.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0563.wav work/lpcc/spk_cls/c05/c0563.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0564.wav work/lpcc/spk_cls/c05/c0564.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0565.wav work/lpcc/spk_cls/c05/c0565.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0566.wav work/lpcc/spk_cls/c05/c0566.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0567.wav work/lpcc/spk_cls/c05/c0567.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0568.wav work/lpcc/spk_cls/c05/c0568.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0569.wav work/lpcc/spk_cls/c05/c0569.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0570.wav work/lpcc/spk_cls/c05/c0570.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0571.wav work/lpcc/spk_cls/c05/c0571.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0572.wav work/lpcc/spk_cls/c05/c0572.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0573.wav work/lpcc/spk_cls/c05/c0573.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0574.wav work/lpcc/spk_cls/c05/c0574.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0575.wav work/lpcc/spk_cls/c05/c0575.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0576.wav work/lpcc/spk_cls/c05/c0576.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0577.wav work/lpcc/spk_cls/c05/c0577.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0578.wav work/lpcc/spk_cls/c05/c0578.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0579.wav work/lpcc/spk_cls/c05/c0579.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0580.wav work/lpcc/spk_cls/c05/c0580.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0581.wav work/lpcc/spk_cls/c05/c0581.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0582.wav work/lpcc/spk_cls/c05/c0582.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0583.wav work/lpcc/spk_cls/c05/c0583.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0584.wav work/lpcc/spk_cls/c05/c0584.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0585.wav work/lpcc/spk_cls/c05/c0585.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0586.wav work/lpcc/spk_cls/c05/c0586.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0587.wav work/lpcc/spk_cls/c05/c0587.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0588.wav work/lpcc/spk_cls/c05/c0588.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0589.wav work/lpcc/spk_cls/c05/c0589.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0590.wav work/lpcc/spk_cls/c05/c0590.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0591.wav work/lpcc/spk_cls/c05/c0591.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0592.wav work/lpcc/spk_cls/c05/c0592.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0593.wav work/lpcc/spk_cls/c05/c0593.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0594.wav work/lpcc/spk_cls/c05/c0594.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0595.wav work/lpcc/spk_cls/c05/c0595.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0596.wav work/lpcc/spk_cls/c05/c0596.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0597.wav work/lpcc/spk_cls/c05/c0597.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0598.wav work/lpcc/spk_cls/c05/c0598.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c05/c0599.wav work/lpcc/spk_cls/c05/c0599.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0600.wav work/lpcc/spk_cls/c06/c0600.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0601.wav work/lpcc/spk_cls/c06/c0601.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0602.wav work/lpcc/spk_cls/c06/c0602.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0603.wav work/lpcc/spk_cls/c06/c0603.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0604.wav work/lpcc/spk_cls/c06/c0604.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0605.wav work/lpcc/spk_cls/c06/c0605.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0606.wav work/lpcc/spk_cls/c06/c0606.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0607.wav work/lpcc/spk_cls/c06/c0607.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0608.wav work/lpcc/spk_cls/c06/c0608.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0609.wav work/lpcc/spk_cls/c06/c0609.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0610.wav work/lpcc/spk_cls/c06/c0610.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0611.wav work/lpcc/spk_cls/c06/c0611.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0612.wav work/lpcc/spk_cls/c06/c0612.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0613.wav work/lpcc/spk_cls/c06/c0613.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0614.wav work/lpcc/spk_cls/c06/c0614.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0615.wav work/lpcc/spk_cls/c06/c0615.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0616.wav work/lpcc/spk_cls/c06/c0616.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0617.wav work/lpcc/spk_cls/c06/c0617.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0618.wav work/lpcc/spk_cls/c06/c0618.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0619.wav work/lpcc/spk_cls/c06/c0619.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0620.wav work/lpcc/spk_cls/c06/c0620.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0621.wav work/lpcc/spk_cls/c06/c0621.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0622.wav work/lpcc/spk_cls/c06/c0622.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0623.wav work/lpcc/spk_cls/c06/c0623.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0624.wav work/lpcc/spk_cls/c06/c0624.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0625.wav work/lpcc/spk_cls/c06/c0625.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0626.wav work/lpcc/spk_cls/c06/c0626.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0627.wav work/lpcc/spk_cls/c06/c0627.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0628.wav work/lpcc/spk_cls/c06/c0628.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0629.wav work/lpcc/spk_cls/c06/c0629.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0630.wav work/lpcc/spk_cls/c06/c0630.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0631.wav work/lpcc/spk_cls/c06/c0631.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0632.wav work/lpcc/spk_cls/c06/c0632.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0633.wav work/lpcc/spk_cls/c06/c0633.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0634.wav work/lpcc/spk_cls/c06/c0634.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0635.wav work/lpcc/spk_cls/c06/c0635.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0636.wav work/lpcc/spk_cls/c06/c0636.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0637.wav work/lpcc/spk_cls/c06/c0637.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0638.wav work/lpcc/spk_cls/c06/c0638.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0639.wav work/lpcc/spk_cls/c06/c0639.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0640.wav work/lpcc/spk_cls/c06/c0640.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0641.wav work/lpcc/spk_cls/c06/c0641.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0642.wav work/lpcc/spk_cls/c06/c0642.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0643.wav work/lpcc/spk_cls/c06/c0643.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0644.wav work/lpcc/spk_cls/c06/c0644.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0645.wav work/lpcc/spk_cls/c06/c0645.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0646.wav work/lpcc/spk_cls/c06/c0646.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0647.wav work/lpcc/spk_cls/c06/c0647.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0648.wav work/lpcc/spk_cls/c06/c0648.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0649.wav work/lpcc/spk_cls/c06/c0649.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0650.wav work/lpcc/spk_cls/c06/c0650.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0651.wav work/lpcc/spk_cls/c06/c0651.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0652.wav work/lpcc/spk_cls/c06/c0652.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0653.wav work/lpcc/spk_cls/c06/c0653.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0654.wav work/lpcc/spk_cls/c06/c0654.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0655.wav work/lpcc/spk_cls/c06/c0655.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0656.wav work/lpcc/spk_cls/c06/c0656.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0657.wav work/lpcc/spk_cls/c06/c0657.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0658.wav work/lpcc/spk_cls/c06/c0658.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0659.wav work/lpcc/spk_cls/c06/c0659.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0660.wav work/lpcc/spk_cls/c06/c0660.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0661.wav work/lpcc/spk_cls/c06/c0661.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0662.wav work/lpcc/spk_cls/c06/c0662.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0663.wav work/lpcc/spk_cls/c06/c0663.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0664.wav work/lpcc/spk_cls/c06/c0664.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0665.wav work/lpcc/spk_cls/c06/c0665.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0666.wav work/lpcc/spk_cls/c06/c0666.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0667.wav work/lpcc/spk_cls/c06/c0667.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0668.wav work/lpcc/spk_cls/c06/c0668.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0669.wav work/lpcc/spk_cls/c06/c0669.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0670.wav work/lpcc/spk_cls/c06/c0670.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0671.wav work/lpcc/spk_cls/c06/c0671.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0672.wav work/lpcc/spk_cls/c06/c0672.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0673.wav work/lpcc/spk_cls/c06/c0673.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0674.wav work/lpcc/spk_cls/c06/c0674.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0675.wav work/lpcc/spk_cls/c06/c0675.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0676.wav work/lpcc/spk_cls/c06/c0676.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0677.wav work/lpcc/spk_cls/c06/c0677.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0678.wav work/lpcc/spk_cls/c06/c0678.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0679.wav work/lpcc/spk_cls/c06/c0679.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0680.wav work/lpcc/spk_cls/c06/c0680.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0681.wav work/lpcc/spk_cls/c06/c0681.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0682.wav work/lpcc/spk_cls/c06/c0682.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0683.wav work/lpcc/spk_cls/c06/c0683.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0684.wav work/lpcc/spk_cls/c06/c0684.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0685.wav work/lpcc/spk_cls/c06/c0685.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0686.wav work/lpcc/spk_cls/c06/c0686.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0687.wav work/lpcc/spk_cls/c06/c0687.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0688.wav work/lpcc/spk_cls/c06/c0688.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0689.wav work/lpcc/spk_cls/c06/c0689.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0690.wav work/lpcc/spk_cls/c06/c0690.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0691.wav work/lpcc/spk_cls/c06/c0691.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0692.wav work/lpcc/spk_cls/c06/c0692.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0693.wav work/lpcc/spk_cls/c06/c0693.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0694.wav work/lpcc/spk_cls/c06/c0694.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0695.wav work/lpcc/spk_cls/c06/c0695.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0696.wav work/lpcc/spk_cls/c06/c0696.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0697.wav work/lpcc/spk_cls/c06/c0697.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0698.wav work/lpcc/spk_cls/c06/c0698.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c06/c0699.wav work/lpcc/spk_cls/c06/c0699.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0700.wav work/lpcc/spk_cls/c07/c0700.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0701.wav work/lpcc/spk_cls/c07/c0701.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0702.wav work/lpcc/spk_cls/c07/c0702.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0703.wav work/lpcc/spk_cls/c07/c0703.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0704.wav work/lpcc/spk_cls/c07/c0704.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0705.wav work/lpcc/spk_cls/c07/c0705.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0706.wav work/lpcc/spk_cls/c07/c0706.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0707.wav work/lpcc/spk_cls/c07/c0707.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0708.wav work/lpcc/spk_cls/c07/c0708.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0709.wav work/lpcc/spk_cls/c07/c0709.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0710.wav work/lpcc/spk_cls/c07/c0710.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0711.wav work/lpcc/spk_cls/c07/c0711.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0712.wav work/lpcc/spk_cls/c07/c0712.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0713.wav work/lpcc/spk_cls/c07/c0713.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0714.wav work/lpcc/spk_cls/c07/c0714.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0715.wav work/lpcc/spk_cls/c07/c0715.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0716.wav work/lpcc/spk_cls/c07/c0716.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0717.wav work/lpcc/spk_cls/c07/c0717.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0718.wav work/lpcc/spk_cls/c07/c0718.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0719.wav work/lpcc/spk_cls/c07/c0719.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0720.wav work/lpcc/spk_cls/c07/c0720.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0721.wav work/lpcc/spk_cls/c07/c0721.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0722.wav work/lpcc/spk_cls/c07/c0722.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0723.wav work/lpcc/spk_cls/c07/c0723.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0724.wav work/lpcc/spk_cls/c07/c0724.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0725.wav work/lpcc/spk_cls/c07/c0725.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0726.wav work/lpcc/spk_cls/c07/c0726.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0727.wav work/lpcc/spk_cls/c07/c0727.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0728.wav work/lpcc/spk_cls/c07/c0728.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0729.wav work/lpcc/spk_cls/c07/c0729.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0730.wav work/lpcc/spk_cls/c07/c0730.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0731.wav work/lpcc/spk_cls/c07/c0731.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0732.wav work/lpcc/spk_cls/c07/c0732.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0733.wav work/lpcc/spk_cls/c07/c0733.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0734.wav work/lpcc/spk_cls/c07/c0734.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0735.wav work/lpcc/spk_cls/c07/c0735.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0736.wav work/lpcc/spk_cls/c07/c0736.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0737.wav work/lpcc/spk_cls/c07/c0737.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0738.wav work/lpcc/spk_cls/c07/c0738.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0739.wav work/lpcc/spk_cls/c07/c0739.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0740.wav work/lpcc/spk_cls/c07/c0740.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0741.wav work/lpcc/spk_cls/c07/c0741.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0742.wav work/lpcc/spk_cls/c07/c0742.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0743.wav work/lpcc/spk_cls/c07/c0743.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0744.wav work/lpcc/spk_cls/c07/c0744.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0745.wav work/lpcc/spk_cls/c07/c0745.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0746.wav work/lpcc/spk_cls/c07/c0746.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0747.wav work/lpcc/spk_cls/c07/c0747.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0748.wav work/lpcc/spk_cls/c07/c0748.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0749.wav work/lpcc/spk_cls/c07/c0749.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0750.wav work/lpcc/spk_cls/c07/c0750.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0751.wav work/lpcc/spk_cls/c07/c0751.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0752.wav work/lpcc/spk_cls/c07/c0752.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0753.wav work/lpcc/spk_cls/c07/c0753.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0754.wav work/lpcc/spk_cls/c07/c0754.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0755.wav work/lpcc/spk_cls/c07/c0755.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0756.wav work/lpcc/spk_cls/c07/c0756.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0757.wav work/lpcc/spk_cls/c07/c0757.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0758.wav work/lpcc/spk_cls/c07/c0758.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0759.wav work/lpcc/spk_cls/c07/c0759.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0760.wav work/lpcc/spk_cls/c07/c0760.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0761.wav work/lpcc/spk_cls/c07/c0761.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0762.wav work/lpcc/spk_cls/c07/c0762.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0763.wav work/lpcc/spk_cls/c07/c0763.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0764.wav work/lpcc/spk_cls/c07/c0764.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0765.wav work/lpcc/spk_cls/c07/c0765.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0766.wav work/lpcc/spk_cls/c07/c0766.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0767.wav work/lpcc/spk_cls/c07/c0767.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0768.wav work/lpcc/spk_cls/c07/c0768.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0769.wav work/lpcc/spk_cls/c07/c0769.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0770.wav work/lpcc/spk_cls/c07/c0770.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0771.wav work/lpcc/spk_cls/c07/c0771.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0772.wav work/lpcc/spk_cls/c07/c0772.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0773.wav work/lpcc/spk_cls/c07/c0773.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0774.wav work/lpcc/spk_cls/c07/c0774.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0775.wav work/lpcc/spk_cls/c07/c0775.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0776.wav work/lpcc/spk_cls/c07/c0776.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0777.wav work/lpcc/spk_cls/c07/c0777.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0778.wav work/lpcc/spk_cls/c07/c0778.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0779.wav work/lpcc/spk_cls/c07/c0779.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0780.wav work/lpcc/spk_cls/c07/c0780.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0781.wav work/lpcc/spk_cls/c07/c0781.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0782.wav work/lpcc/spk_cls/c07/c0782.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0783.wav work/lpcc/spk_cls/c07/c0783.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0784.wav work/lpcc/spk_cls/c07/c0784.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0785.wav work/lpcc/spk_cls/c07/c0785.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0786.wav work/lpcc/spk_cls/c07/c0786.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0787.wav work/lpcc/spk_cls/c07/c0787.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0788.wav work/lpcc/spk_cls/c07/c0788.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0789.wav work/lpcc/spk_cls/c07/c0789.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0790.wav work/lpcc/spk_cls/c07/c0790.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0791.wav work/lpcc/spk_cls/c07/c0791.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0792.wav work/lpcc/spk_cls/c07/c0792.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0793.wav work/lpcc/spk_cls/c07/c0793.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0794.wav work/lpcc/spk_cls/c07/c0794.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0795.wav work/lpcc/spk_cls/c07/c0795.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0796.wav work/lpcc/spk_cls/c07/c0796.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0797.wav work/lpcc/spk_cls/c07/c0797.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0798.wav work/lpcc/spk_cls/c07/c0798.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c07/c0799.wav work/lpcc/spk_cls/c07/c0799.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0800.wav work/lpcc/spk_cls/c08/c0800.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0801.wav work/lpcc/spk_cls/c08/c0801.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0802.wav work/lpcc/spk_cls/c08/c0802.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0803.wav work/lpcc/spk_cls/c08/c0803.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0804.wav work/lpcc/spk_cls/c08/c0804.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0805.wav work/lpcc/spk_cls/c08/c0805.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0806.wav work/lpcc/spk_cls/c08/c0806.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0807.wav work/lpcc/spk_cls/c08/c0807.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0808.wav work/lpcc/spk_cls/c08/c0808.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0809.wav work/lpcc/spk_cls/c08/c0809.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0810.wav work/lpcc/spk_cls/c08/c0810.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0811.wav work/lpcc/spk_cls/c08/c0811.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0812.wav work/lpcc/spk_cls/c08/c0812.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0813.wav work/lpcc/spk_cls/c08/c0813.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0814.wav work/lpcc/spk_cls/c08/c0814.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0815.wav work/lpcc/spk_cls/c08/c0815.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0816.wav work/lpcc/spk_cls/c08/c0816.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0817.wav work/lpcc/spk_cls/c08/c0817.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0818.wav work/lpcc/spk_cls/c08/c0818.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0819.wav work/lpcc/spk_cls/c08/c0819.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0820.wav work/lpcc/spk_cls/c08/c0820.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0821.wav work/lpcc/spk_cls/c08/c0821.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0822.wav work/lpcc/spk_cls/c08/c0822.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0823.wav work/lpcc/spk_cls/c08/c0823.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0824.wav work/lpcc/spk_cls/c08/c0824.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0825.wav work/lpcc/spk_cls/c08/c0825.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0826.wav work/lpcc/spk_cls/c08/c0826.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0827.wav work/lpcc/spk_cls/c08/c0827.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0828.wav work/lpcc/spk_cls/c08/c0828.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0829.wav work/lpcc/spk_cls/c08/c0829.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0830.wav work/lpcc/spk_cls/c08/c0830.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0831.wav work/lpcc/spk_cls/c08/c0831.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0832.wav work/lpcc/spk_cls/c08/c0832.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0833.wav work/lpcc/spk_cls/c08/c0833.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0834.wav work/lpcc/spk_cls/c08/c0834.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0835.wav work/lpcc/spk_cls/c08/c0835.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0836.wav work/lpcc/spk_cls/c08/c0836.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0837.wav work/lpcc/spk_cls/c08/c0837.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0838.wav work/lpcc/spk_cls/c08/c0838.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0839.wav work/lpcc/spk_cls/c08/c0839.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0840.wav work/lpcc/spk_cls/c08/c0840.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0841.wav work/lpcc/spk_cls/c08/c0841.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0842.wav work/lpcc/spk_cls/c08/c0842.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0843.wav work/lpcc/spk_cls/c08/c0843.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0844.wav work/lpcc/spk_cls/c08/c0844.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0845.wav work/lpcc/spk_cls/c08/c0845.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0846.wav work/lpcc/spk_cls/c08/c0846.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0847.wav work/lpcc/spk_cls/c08/c0847.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0848.wav work/lpcc/spk_cls/c08/c0848.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0849.wav work/lpcc/spk_cls/c08/c0849.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0850.wav work/lpcc/spk_cls/c08/c0850.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0851.wav work/lpcc/spk_cls/c08/c0851.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0852.wav work/lpcc/spk_cls/c08/c0852.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0853.wav work/lpcc/spk_cls/c08/c0853.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0854.wav work/lpcc/spk_cls/c08/c0854.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0855.wav work/lpcc/spk_cls/c08/c0855.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0856.wav work/lpcc/spk_cls/c08/c0856.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0857.wav work/lpcc/spk_cls/c08/c0857.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0858.wav work/lpcc/spk_cls/c08/c0858.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0859.wav work/lpcc/spk_cls/c08/c0859.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0860.wav work/lpcc/spk_cls/c08/c0860.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0861.wav work/lpcc/spk_cls/c08/c0861.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0862.wav work/lpcc/spk_cls/c08/c0862.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0863.wav work/lpcc/spk_cls/c08/c0863.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0864.wav work/lpcc/spk_cls/c08/c0864.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0865.wav work/lpcc/spk_cls/c08/c0865.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0866.wav work/lpcc/spk_cls/c08/c0866.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0867.wav work/lpcc/spk_cls/c08/c0867.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0868.wav work/lpcc/spk_cls/c08/c0868.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0869.wav work/lpcc/spk_cls/c08/c0869.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0870.wav work/lpcc/spk_cls/c08/c0870.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0871.wav work/lpcc/spk_cls/c08/c0871.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0872.wav work/lpcc/spk_cls/c08/c0872.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0873.wav work/lpcc/spk_cls/c08/c0873.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0874.wav work/lpcc/spk_cls/c08/c0874.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0875.wav work/lpcc/spk_cls/c08/c0875.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0876.wav work/lpcc/spk_cls/c08/c0876.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0877.wav work/lpcc/spk_cls/c08/c0877.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0878.wav work/lpcc/spk_cls/c08/c0878.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0879.wav work/lpcc/spk_cls/c08/c0879.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0880.wav work/lpcc/spk_cls/c08/c0880.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0881.wav work/lpcc/spk_cls/c08/c0881.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0882.wav work/lpcc/spk_cls/c08/c0882.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0883.wav work/lpcc/spk_cls/c08/c0883.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0884.wav work/lpcc/spk_cls/c08/c0884.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0885.wav work/lpcc/spk_cls/c08/c0885.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0886.wav work/lpcc/spk_cls/c08/c0886.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0887.wav work/lpcc/spk_cls/c08/c0887.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0888.wav work/lpcc/spk_cls/c08/c0888.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0889.wav work/lpcc/spk_cls/c08/c0889.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0890.wav work/lpcc/spk_cls/c08/c0890.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0891.wav work/lpcc/spk_cls/c08/c0891.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0892.wav work/lpcc/spk_cls/c08/c0892.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0893.wav work/lpcc/spk_cls/c08/c0893.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0894.wav work/lpcc/spk_cls/c08/c0894.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0895.wav work/lpcc/spk_cls/c08/c0895.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0896.wav work/lpcc/spk_cls/c08/c0896.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0897.wav work/lpcc/spk_cls/c08/c0897.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0898.wav work/lpcc/spk_cls/c08/c0898.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c08/c0899.wav work/lpcc/spk_cls/c08/c0899.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0900.wav work/lpcc/spk_cls/c09/c0900.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0901.wav work/lpcc/spk_cls/c09/c0901.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0902.wav work/lpcc/spk_cls/c09/c0902.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0903.wav work/lpcc/spk_cls/c09/c0903.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0904.wav work/lpcc/spk_cls/c09/c0904.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0905.wav work/lpcc/spk_cls/c09/c0905.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0906.wav work/lpcc/spk_cls/c09/c0906.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0907.wav work/lpcc/spk_cls/c09/c0907.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0908.wav work/lpcc/spk_cls/c09/c0908.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0909.wav work/lpcc/spk_cls/c09/c0909.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0910.wav work/lpcc/spk_cls/c09/c0910.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0911.wav work/lpcc/spk_cls/c09/c0911.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0912.wav work/lpcc/spk_cls/c09/c0912.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0913.wav work/lpcc/spk_cls/c09/c0913.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0914.wav work/lpcc/spk_cls/c09/c0914.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0915.wav work/lpcc/spk_cls/c09/c0915.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0916.wav work/lpcc/spk_cls/c09/c0916.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0917.wav work/lpcc/spk_cls/c09/c0917.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0918.wav work/lpcc/spk_cls/c09/c0918.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0919.wav work/lpcc/spk_cls/c09/c0919.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0920.wav work/lpcc/spk_cls/c09/c0920.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0921.wav work/lpcc/spk_cls/c09/c0921.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0922.wav work/lpcc/spk_cls/c09/c0922.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0923.wav work/lpcc/spk_cls/c09/c0923.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0924.wav work/lpcc/spk_cls/c09/c0924.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0925.wav work/lpcc/spk_cls/c09/c0925.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0926.wav work/lpcc/spk_cls/c09/c0926.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0927.wav work/lpcc/spk_cls/c09/c0927.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0928.wav work/lpcc/spk_cls/c09/c0928.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0929.wav work/lpcc/spk_cls/c09/c0929.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0930.wav work/lpcc/spk_cls/c09/c0930.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0931.wav work/lpcc/spk_cls/c09/c0931.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0932.wav work/lpcc/spk_cls/c09/c0932.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0933.wav work/lpcc/spk_cls/c09/c0933.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0934.wav work/lpcc/spk_cls/c09/c0934.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0935.wav work/lpcc/spk_cls/c09/c0935.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0936.wav work/lpcc/spk_cls/c09/c0936.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0937.wav work/lpcc/spk_cls/c09/c0937.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0938.wav work/lpcc/spk_cls/c09/c0938.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0939.wav work/lpcc/spk_cls/c09/c0939.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0940.wav work/lpcc/spk_cls/c09/c0940.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0941.wav work/lpcc/spk_cls/c09/c0941.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0942.wav work/lpcc/spk_cls/c09/c0942.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0943.wav work/lpcc/spk_cls/c09/c0943.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0944.wav work/lpcc/spk_cls/c09/c0944.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0945.wav work/lpcc/spk_cls/c09/c0945.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0946.wav work/lpcc/spk_cls/c09/c0946.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0947.wav work/lpcc/spk_cls/c09/c0947.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0948.wav work/lpcc/spk_cls/c09/c0948.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0949.wav work/lpcc/spk_cls/c09/c0949.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0950.wav work/lpcc/spk_cls/c09/c0950.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0951.wav work/lpcc/spk_cls/c09/c0951.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0952.wav work/lpcc/spk_cls/c09/c0952.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0953.wav work/lpcc/spk_cls/c09/c0953.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0954.wav work/lpcc/spk_cls/c09/c0954.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0955.wav work/lpcc/spk_cls/c09/c0955.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0956.wav work/lpcc/spk_cls/c09/c0956.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0957.wav work/lpcc/spk_cls/c09/c0957.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0958.wav work/lpcc/spk_cls/c09/c0958.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0959.wav work/lpcc/spk_cls/c09/c0959.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0960.wav work/lpcc/spk_cls/c09/c0960.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0961.wav work/lpcc/spk_cls/c09/c0961.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0962.wav work/lpcc/spk_cls/c09/c0962.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0963.wav work/lpcc/spk_cls/c09/c0963.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0964.wav work/lpcc/spk_cls/c09/c0964.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0965.wav work/lpcc/spk_cls/c09/c0965.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0966.wav work/lpcc/spk_cls/c09/c0966.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0967.wav work/lpcc/spk_cls/c09/c0967.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0968.wav work/lpcc/spk_cls/c09/c0968.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0969.wav work/lpcc/spk_cls/c09/c0969.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0970.wav work/lpcc/spk_cls/c09/c0970.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0971.wav work/lpcc/spk_cls/c09/c0971.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0972.wav work/lpcc/spk_cls/c09/c0972.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0973.wav work/lpcc/spk_cls/c09/c0973.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0974.wav work/lpcc/spk_cls/c09/c0974.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0975.wav work/lpcc/spk_cls/c09/c0975.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0976.wav work/lpcc/spk_cls/c09/c0976.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0977.wav work/lpcc/spk_cls/c09/c0977.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0978.wav work/lpcc/spk_cls/c09/c0978.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0979.wav work/lpcc/spk_cls/c09/c0979.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0980.wav work/lpcc/spk_cls/c09/c0980.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0981.wav work/lpcc/spk_cls/c09/c0981.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0982.wav work/lpcc/spk_cls/c09/c0982.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0983.wav work/lpcc/spk_cls/c09/c0983.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0984.wav work/lpcc/spk_cls/c09/c0984.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0985.wav work/lpcc/spk_cls/c09/c0985.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0986.wav work/lpcc/spk_cls/c09/c0986.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0987.wav work/lpcc/spk_cls/c09/c0987.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0988.wav work/lpcc/spk_cls/c09/c0988.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0989.wav work/lpcc/spk_cls/c09/c0989.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0990.wav work/lpcc/spk_cls/c09/c0990.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0991.wav work/lpcc/spk_cls/c09/c0991.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0992.wav work/lpcc/spk_cls/c09/c0992.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0993.wav work/lpcc/spk_cls/c09/c0993.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0994.wav work/lpcc/spk_cls/c09/c0994.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0995.wav work/lpcc/spk_cls/c09/c0995.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0996.wav work/lpcc/spk_cls/c09/c0996.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0997.wav work/lpcc/spk_cls/c09/c0997.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0998.wav work/lpcc/spk_cls/c09/c0998.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c09/c0999.wav work/lpcc/spk_cls/c09/c0999.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1000.wav work/lpcc/spk_cls/c10/c1000.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1001.wav work/lpcc/spk_cls/c10/c1001.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1002.wav work/lpcc/spk_cls/c10/c1002.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1003.wav work/lpcc/spk_cls/c10/c1003.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1004.wav work/lpcc/spk_cls/c10/c1004.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1005.wav work/lpcc/spk_cls/c10/c1005.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1006.wav work/lpcc/spk_cls/c10/c1006.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1007.wav work/lpcc/spk_cls/c10/c1007.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1008.wav work/lpcc/spk_cls/c10/c1008.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1009.wav work/lpcc/spk_cls/c10/c1009.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1010.wav work/lpcc/spk_cls/c10/c1010.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1011.wav work/lpcc/spk_cls/c10/c1011.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1012.wav work/lpcc/spk_cls/c10/c1012.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1013.wav work/lpcc/spk_cls/c10/c1013.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1014.wav work/lpcc/spk_cls/c10/c1014.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1015.wav work/lpcc/spk_cls/c10/c1015.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1016.wav work/lpcc/spk_cls/c10/c1016.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1017.wav work/lpcc/spk_cls/c10/c1017.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1018.wav work/lpcc/spk_cls/c10/c1018.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1019.wav work/lpcc/spk_cls/c10/c1019.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1020.wav work/lpcc/spk_cls/c10/c1020.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1021.wav work/lpcc/spk_cls/c10/c1021.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1022.wav work/lpcc/spk_cls/c10/c1022.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1023.wav work/lpcc/spk_cls/c10/c1023.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1024.wav work/lpcc/spk_cls/c10/c1024.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1025.wav work/lpcc/spk_cls/c10/c1025.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1026.wav work/lpcc/spk_cls/c10/c1026.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1027.wav work/lpcc/spk_cls/c10/c1027.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1028.wav work/lpcc/spk_cls/c10/c1028.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1029.wav work/lpcc/spk_cls/c10/c1029.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1030.wav work/lpcc/spk_cls/c10/c1030.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1031.wav work/lpcc/spk_cls/c10/c1031.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1032.wav work/lpcc/spk_cls/c10/c1032.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1033.wav work/lpcc/spk_cls/c10/c1033.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1034.wav work/lpcc/spk_cls/c10/c1034.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1035.wav work/lpcc/spk_cls/c10/c1035.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1036.wav work/lpcc/spk_cls/c10/c1036.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1037.wav work/lpcc/spk_cls/c10/c1037.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1038.wav work/lpcc/spk_cls/c10/c1038.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1039.wav work/lpcc/spk_cls/c10/c1039.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1040.wav work/lpcc/spk_cls/c10/c1040.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1041.wav work/lpcc/spk_cls/c10/c1041.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1042.wav work/lpcc/spk_cls/c10/c1042.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1043.wav work/lpcc/spk_cls/c10/c1043.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1044.wav work/lpcc/spk_cls/c10/c1044.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1045.wav work/lpcc/spk_cls/c10/c1045.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1046.wav work/lpcc/spk_cls/c10/c1046.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1047.wav work/lpcc/spk_cls/c10/c1047.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1048.wav work/lpcc/spk_cls/c10/c1048.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1049.wav work/lpcc/spk_cls/c10/c1049.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1050.wav work/lpcc/spk_cls/c10/c1050.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1051.wav work/lpcc/spk_cls/c10/c1051.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1052.wav work/lpcc/spk_cls/c10/c1052.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1053.wav work/lpcc/spk_cls/c10/c1053.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1054.wav work/lpcc/spk_cls/c10/c1054.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1055.wav work/lpcc/spk_cls/c10/c1055.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1056.wav work/lpcc/spk_cls/c10/c1056.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1057.wav work/lpcc/spk_cls/c10/c1057.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1058.wav work/lpcc/spk_cls/c10/c1058.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1059.wav work/lpcc/spk_cls/c10/c1059.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1060.wav work/lpcc/spk_cls/c10/c1060.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1061.wav work/lpcc/spk_cls/c10/c1061.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1062.wav work/lpcc/spk_cls/c10/c1062.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1063.wav work/lpcc/spk_cls/c10/c1063.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1064.wav work/lpcc/spk_cls/c10/c1064.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1065.wav work/lpcc/spk_cls/c10/c1065.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1066.wav work/lpcc/spk_cls/c10/c1066.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1067.wav work/lpcc/spk_cls/c10/c1067.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1068.wav work/lpcc/spk_cls/c10/c1068.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1069.wav work/lpcc/spk_cls/c10/c1069.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1070.wav work/lpcc/spk_cls/c10/c1070.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1071.wav work/lpcc/spk_cls/c10/c1071.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1072.wav work/lpcc/spk_cls/c10/c1072.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1073.wav work/lpcc/spk_cls/c10/c1073.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1074.wav work/lpcc/spk_cls/c10/c1074.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1075.wav work/lpcc/spk_cls/c10/c1075.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1076.wav work/lpcc/spk_cls/c10/c1076.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1077.wav work/lpcc/spk_cls/c10/c1077.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1078.wav work/lpcc/spk_cls/c10/c1078.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1079.wav work/lpcc/spk_cls/c10/c1079.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1080.wav work/lpcc/spk_cls/c10/c1080.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1081.wav work/lpcc/spk_cls/c10/c1081.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1082.wav work/lpcc/spk_cls/c10/c1082.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1083.wav work/lpcc/spk_cls/c10/c1083.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1084.wav work/lpcc/spk_cls/c10/c1084.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1085.wav work/lpcc/spk_cls/c10/c1085.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1086.wav work/lpcc/spk_cls/c10/c1086.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1087.wav work/lpcc/spk_cls/c10/c1087.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1088.wav work/lpcc/spk_cls/c10/c1088.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1089.wav work/lpcc/spk_cls/c10/c1089.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1090.wav work/lpcc/spk_cls/c10/c1090.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1091.wav work/lpcc/spk_cls/c10/c1091.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1092.wav work/lpcc/spk_cls/c10/c1092.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1093.wav work/lpcc/spk_cls/c10/c1093.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1094.wav work/lpcc/spk_cls/c10/c1094.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1095.wav work/lpcc/spk_cls/c10/c1095.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1096.wav work/lpcc/spk_cls/c10/c1096.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1097.wav work/lpcc/spk_cls/c10/c1097.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1098.wav work/lpcc/spk_cls/c10/c1098.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c10/c1099.wav work/lpcc/spk_cls/c10/c1099.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1100.wav work/lpcc/spk_cls/c11/c1100.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1101.wav work/lpcc/spk_cls/c11/c1101.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1102.wav work/lpcc/spk_cls/c11/c1102.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1103.wav work/lpcc/spk_cls/c11/c1103.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1104.wav work/lpcc/spk_cls/c11/c1104.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1105.wav work/lpcc/spk_cls/c11/c1105.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1106.wav work/lpcc/spk_cls/c11/c1106.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1107.wav work/lpcc/spk_cls/c11/c1107.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1108.wav work/lpcc/spk_cls/c11/c1108.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1109.wav work/lpcc/spk_cls/c11/c1109.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1110.wav work/lpcc/spk_cls/c11/c1110.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1111.wav work/lpcc/spk_cls/c11/c1111.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1112.wav work/lpcc/spk_cls/c11/c1112.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1113.wav work/lpcc/spk_cls/c11/c1113.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1114.wav work/lpcc/spk_cls/c11/c1114.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1115.wav work/lpcc/spk_cls/c11/c1115.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1116.wav work/lpcc/spk_cls/c11/c1116.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1117.wav work/lpcc/spk_cls/c11/c1117.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1118.wav work/lpcc/spk_cls/c11/c1118.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1119.wav work/lpcc/spk_cls/c11/c1119.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1120.wav work/lpcc/spk_cls/c11/c1120.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1121.wav work/lpcc/spk_cls/c11/c1121.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1122.wav work/lpcc/spk_cls/c11/c1122.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1123.wav work/lpcc/spk_cls/c11/c1123.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1124.wav work/lpcc/spk_cls/c11/c1124.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1125.wav work/lpcc/spk_cls/c11/c1125.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1126.wav work/lpcc/spk_cls/c11/c1126.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1127.wav work/lpcc/spk_cls/c11/c1127.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1128.wav work/lpcc/spk_cls/c11/c1128.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1129.wav work/lpcc/spk_cls/c11/c1129.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1130.wav work/lpcc/spk_cls/c11/c1130.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1131.wav work/lpcc/spk_cls/c11/c1131.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1132.wav work/lpcc/spk_cls/c11/c1132.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1133.wav work/lpcc/spk_cls/c11/c1133.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1134.wav work/lpcc/spk_cls/c11/c1134.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1135.wav work/lpcc/spk_cls/c11/c1135.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1136.wav work/lpcc/spk_cls/c11/c1136.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1137.wav work/lpcc/spk_cls/c11/c1137.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1138.wav work/lpcc/spk_cls/c11/c1138.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1139.wav work/lpcc/spk_cls/c11/c1139.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1140.wav work/lpcc/spk_cls/c11/c1140.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1141.wav work/lpcc/spk_cls/c11/c1141.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1142.wav work/lpcc/spk_cls/c11/c1142.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1143.wav work/lpcc/spk_cls/c11/c1143.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1144.wav work/lpcc/spk_cls/c11/c1144.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1145.wav work/lpcc/spk_cls/c11/c1145.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1146.wav work/lpcc/spk_cls/c11/c1146.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1147.wav work/lpcc/spk_cls/c11/c1147.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1148.wav work/lpcc/spk_cls/c11/c1148.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1149.wav work/lpcc/spk_cls/c11/c1149.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1150.wav work/lpcc/spk_cls/c11/c1150.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1151.wav work/lpcc/spk_cls/c11/c1151.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1152.wav work/lpcc/spk_cls/c11/c1152.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1153.wav work/lpcc/spk_cls/c11/c1153.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1154.wav work/lpcc/spk_cls/c11/c1154.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1155.wav work/lpcc/spk_cls/c11/c1155.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1156.wav work/lpcc/spk_cls/c11/c1156.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1157.wav work/lpcc/spk_cls/c11/c1157.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1158.wav work/lpcc/spk_cls/c11/c1158.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1159.wav work/lpcc/spk_cls/c11/c1159.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1160.wav work/lpcc/spk_cls/c11/c1160.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1161.wav work/lpcc/spk_cls/c11/c1161.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1162.wav work/lpcc/spk_cls/c11/c1162.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1163.wav work/lpcc/spk_cls/c11/c1163.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1164.wav work/lpcc/spk_cls/c11/c1164.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1165.wav work/lpcc/spk_cls/c11/c1165.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1166.wav work/lpcc/spk_cls/c11/c1166.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1167.wav work/lpcc/spk_cls/c11/c1167.lpcc
+wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c11/c1168.wav work/lpcc/spk_cls/c11/c1168.lpcc
+gmm_classify -d work/lpcc -e lpcc -D work/gmm/lpcc -E gmm lists/gmm.list lists/final/class.test
+spk_cls/c00/c0000	SES102	13.5459
+spk_cls/c00/c0001	SES157	17.9192
+spk_cls/c00/c0002	SES088	15.8641
+spk_cls/c00/c0003	SES145	15.8596
+spk_cls/c00/c0004	SES220	14.5843
+spk_cls/c00/c0005	SES020	17.2038
+spk_cls/c00/c0006	SES122	15.6227
+spk_cls/c00/c0007	SES045	16.7205
+spk_cls/c00/c0008	SES006	10.4721
+spk_cls/c00/c0009	SES084	16.0076
+spk_cls/c00/c0010	SES142	15.3321
+spk_cls/c00/c0011	SES221	16.2191
+spk_cls/c00/c0012	SES173	14.8507
+spk_cls/c00/c0013	SES172	17.3065
+spk_cls/c00/c0014	SES049	17.1569
+spk_cls/c00/c0015	SES292	17.3903
+spk_cls/c00/c0016	SES200	16.2043
+spk_cls/c00/c0017	SES066	17.2269
+spk_cls/c00/c0018	SES128	16.868
+spk_cls/c00/c0019	SES006	14.4723
+spk_cls/c00/c0020	SES141	15.8879
+spk_cls/c00/c0021	SES021	17.7567
+spk_cls/c00/c0022	SES067	18.1157
+spk_cls/c00/c0023	SES027	17.622
+spk_cls/c00/c0024	SES188	14.8697
+spk_cls/c00/c0025	SES277	15.4923
+spk_cls/c00/c0026	SES258	14.1547
+spk_cls/c00/c0027	SES158	14.577
+spk_cls/c00/c0028	SES119	16.3311
+spk_cls/c00/c0029	SES022	15.0776
+spk_cls/c00/c0030	SES107	17.6581
+spk_cls/c00/c0031	SES089	16.5307
+spk_cls/c00/c0032	SES061	15.0692
+spk_cls/c00/c0033	SES131	15.0727
+spk_cls/c00/c0034	SES168	17.1041
+spk_cls/c00/c0035	SES098	14.3459
+spk_cls/c00/c0036	SES221	17.4209
+spk_cls/c00/c0037	SES009	17.5033
+spk_cls/c00/c0038	SES168	14.9464
+spk_cls/c00/c0039	SES188	14.4155
+spk_cls/c00/c0040	SES200	16.1256
+spk_cls/c00/c0041	SES291	15.6982
+spk_cls/c00/c0042	SES169	14.9928
+spk_cls/c00/c0043	SES066	18.1874
+spk_cls/c00/c0044	SES274	15.8985
+spk_cls/c00/c0045	SES144	15.7742
+spk_cls/c00/c0046	SES205	15.7777
+spk_cls/c00/c0047	SES003	16.9444
+spk_cls/c00/c0048	SES014	18.7657
+spk_cls/c00/c0049	SES045	16.5796
+spk_cls/c00/c0050	SES277	15.911
+spk_cls/c00/c0051	SES027	19.2482
+spk_cls/c00/c0052	SES290	16.5286
+spk_cls/c00/c0053	SES207	16.1028
+spk_cls/c00/c0054	SES086	17.3885
+spk_cls/c00/c0055	SES066	18.2153
+spk_cls/c00/c0056	SES001	13.9656
+spk_cls/c00/c0057	SES061	15.6911
+spk_cls/c00/c0058	SES143	15.8293
+spk_cls/c00/c0059	SES187	15.1809
+spk_cls/c00/c0060	SES098	14.4207
+spk_cls/c00/c0061	SES126	15.5832
+spk_cls/c00/c0062	SES064	19.0671
+spk_cls/c00/c0063	SES012	17.3413
+spk_cls/c00/c0064	SES200	16.3228
+spk_cls/c00/c0065	SES103	15.8604
+spk_cls/c00/c0066	SES132	15.3712
+spk_cls/c00/c0067	SES025	15.5639
+spk_cls/c00/c0068	SES088	15.6611
+spk_cls/c00/c0069	SES063	16.2872
+spk_cls/c00/c0070	SES103	14.0617
+spk_cls/c00/c0071	SES086	17.5375
+spk_cls/c00/c0072	SES011	15.7475
+spk_cls/c00/c0073	SES097	18.7364
+spk_cls/c00/c0074	SES221	16.9337
+spk_cls/c00/c0075	SES004	15.9013
+spk_cls/c00/c0076	SES223	14.4907
+spk_cls/c00/c0077	SES080	16.0978
+spk_cls/c00/c0078	SES045	15.2871
+spk_cls/c00/c0079	SES048	17.5062
+spk_cls/c00/c0080	SES184	15.7548
+spk_cls/c00/c0081	SES108	15.5557
+spk_cls/c00/c0082	SES132	14.8182
+spk_cls/c00/c0083	SES005	16.0422
+spk_cls/c00/c0084	SES177	16.9985
+spk_cls/c00/c0085	SES001	15.5096
+spk_cls/c00/c0086	SES012	15.5835
+spk_cls/c00/c0087	SES047	18.501
+spk_cls/c00/c0088	SES124	16.3509
+spk_cls/c00/c0089	SES097	17.9227
+spk_cls/c00/c0090	SES087	16.7046
+spk_cls/c00/c0091	SES157	16.3035
+spk_cls/c00/c0092	SES044	15.4224
+spk_cls/c00/c0093	SES161	14.7054
+spk_cls/c00/c0094	SES188	15.8507
+spk_cls/c00/c0095	SES290	15.9694
+spk_cls/c00/c0096	SES276	15.6721
+spk_cls/c00/c0097	SES278	15.7534
+spk_cls/c00/c0098	SES183	14.2444
+spk_cls/c00/c0099	SES171	14.3192
+spk_cls/c01/c0100	SES220	16.8543
+spk_cls/c01/c0101	SES088	16.2844
+spk_cls/c01/c0102	SES227	15.4149
+spk_cls/c01/c0103	SES161	14.8228
+spk_cls/c01/c0104	SES023	17.6227
+spk_cls/c01/c0105	SES067	17.5582
+spk_cls/c01/c0106	SES106	14.9655
+spk_cls/c01/c0107	SES205	18.0613
+spk_cls/c01/c0108	SES175	14.5328
+spk_cls/c01/c0109	SES220	15.7848
+spk_cls/c01/c0110	SES100	14.4019
+spk_cls/c01/c0111	SES186	15.4403
+spk_cls/c01/c0112	SES182	16.9526
+spk_cls/c01/c0113	SES011	14.6833
+spk_cls/c01/c0114	SES108	16.568
+spk_cls/c01/c0115	SES026	15.8667
+spk_cls/c01/c0116	SES046	15.2464
+spk_cls/c01/c0117	SES225	16.28
+spk_cls/c01/c0118	SES207	14.2795
+spk_cls/c01/c0119	SES130	16.722
+spk_cls/c01/c0120	SES257	16.3308
+spk_cls/c01/c0121	SES044	15.4012
+spk_cls/c01/c0122	SES109	15.0616
+spk_cls/c01/c0123	SES040	18.2627
+spk_cls/c01/c0124	SES027	18.604
+spk_cls/c01/c0125	SES069	17.0958
+spk_cls/c01/c0126	SES107	17.4236
+spk_cls/c01/c0127	SES081	16.3387
+spk_cls/c01/c0128	SES064	17.7884
+spk_cls/c01/c0129	SES201	17.6554
+spk_cls/c01/c0130	SES120	15.3845
+spk_cls/c01/c0131	SES291	17.365
+spk_cls/c01/c0132	SES020	16.0329
+spk_cls/c01/c0133	SES185	15.3522
+spk_cls/c01/c0134	SES081	16.8704
+spk_cls/c01/c0135	SES201	16.8105
+spk_cls/c01/c0136	SES109	14.77
+spk_cls/c01/c0137	SES225	15.3999
+spk_cls/c01/c0138	SES165	15.2887
+spk_cls/c01/c0139	SES184	14.7311
+spk_cls/c01/c0140	SES189	16.4228
+spk_cls/c01/c0141	SES160	13.5302
+spk_cls/c01/c0142	SES123	17.2083
+spk_cls/c01/c0143	SES166	16.6604
+spk_cls/c01/c0144	SES132	17.2211
+spk_cls/c01/c0145	SES131	15.0848
+spk_cls/c01/c0146	SES000	14.1292
+spk_cls/c01/c0147	SES163	16.0115
+spk_cls/c01/c0148	SES161	13.3493
+spk_cls/c01/c0149	SES049	16.049
+spk_cls/c01/c0150	SES227	15.0789
+spk_cls/c01/c0151	SES221	18.35
+spk_cls/c01/c0152	SES084	16.671
+spk_cls/c01/c0153	SES141	15.6844
+spk_cls/c01/c0154	SES170	16.7586
+spk_cls/c01/c0155	SES203	16.9249
+spk_cls/c01/c0156	SES069	17.9276
+spk_cls/c01/c0157	SES047	17.0106
+spk_cls/c01/c0158	SES010	12.2048
+spk_cls/c01/c0159	SES274	15.182
+spk_cls/c01/c0160	SES124	14.7501
+spk_cls/c01/c0161	SES159	15.6017
+spk_cls/c01/c0162	SES159	14.8981
+spk_cls/c01/c0163	SES145	15.1366
+spk_cls/c01/c0164	SES020	16.281
+spk_cls/c01/c0165	SES257	15.1022
+spk_cls/c01/c0166	SES107	16.8063
+spk_cls/c01/c0167	SES105	16.1486
+spk_cls/c01/c0168	SES017	20.0273
+spk_cls/c01/c0169	SES063	16.4864
+spk_cls/c01/c0170	SES067	17.3202
+spk_cls/c01/c0171	SES274	16.3193
+spk_cls/c01/c0172	SES064	15.9312
+spk_cls/c01/c0173	SES104	17.002
+spk_cls/c01/c0174	SES272	16.3433
+spk_cls/c01/c0175	SES133	16.6213
+spk_cls/c01/c0176	SES272	15.566
+spk_cls/c01/c0177	SES082	17.4332
+spk_cls/c01/c0178	SES046	15.8623
+spk_cls/c01/c0179	SES126	16.3862
+spk_cls/c01/c0180	SES185	16.1871
+spk_cls/c01/c0181	SES277	15.5871
+spk_cls/c01/c0182	SES201	16.5428
+spk_cls/c01/c0183	SES062	17.8012
+spk_cls/c01/c0184	SES040	16.5828
+spk_cls/c01/c0185	SES258	13.3542
+spk_cls/c01/c0186	SES223	15.6307
+spk_cls/c01/c0187	SES021	17.3687
+spk_cls/c01/c0188	SES292	16.0591
+spk_cls/c01/c0189	SES126	17.1199
+spk_cls/c01/c0190	SES081	16.4891
+spk_cls/c01/c0191	SES027	18.0398
+spk_cls/c01/c0192	SES128	15.4189
+spk_cls/c01/c0193	SES277	15.5037
+spk_cls/c01/c0194	SES257	15.519
+spk_cls/c01/c0195	SES220	15.8629
+spk_cls/c01/c0196	SES145	15.4795
+spk_cls/c01/c0197	SES025	14.4318
+spk_cls/c01/c0198	SES259	18.26
+spk_cls/c01/c0199	SES128	16.1195
+spk_cls/c02/c0200	SES186	16.1576
+spk_cls/c02/c0201	SES175	13.823
+spk_cls/c02/c0202	SES273	18.395
+spk_cls/c02/c0203	SES121	15.2862
+spk_cls/c02/c0204	SES088	16.4724
+spk_cls/c02/c0205	SES168	18.4587
+spk_cls/c02/c0206	SES186	16.5813
+spk_cls/c02/c0207	SES220	15.9265
+spk_cls/c02/c0208	SES013	17.1613
+spk_cls/c02/c0209	SES159	11.4076
+spk_cls/c02/c0210	SES027	16.9328
+spk_cls/c02/c0211	SES061	14.8401
+spk_cls/c02/c0212	SES067	17.9614
+spk_cls/c02/c0213	SES133	16.4889
+spk_cls/c02/c0214	SES065	14.2582
+spk_cls/c02/c0215	SES043	13.4817
+spk_cls/c02/c0216	SES182	17.2684
+spk_cls/c02/c0217	SES086	18.7454
+spk_cls/c02/c0218	SES279	14.438
+spk_cls/c02/c0219	SES118	15.8291
+spk_cls/c02/c0220	SES128	14.1726
+spk_cls/c02/c0221	SES203	17.4396
+spk_cls/c02/c0222	SES009	16.4756
+spk_cls/c02/c0223	SES044	14.6206
+spk_cls/c02/c0224	SES046	15.6457
+spk_cls/c02/c0225	SES027	16.1945
+spk_cls/c02/c0226	SES188	16.0739
+spk_cls/c02/c0227	SES081	15.5805
+spk_cls/c02/c0228	SES278	16.0833
+spk_cls/c02/c0229	SES043	14.9319
+spk_cls/c02/c0230	SES223	13.5344
+spk_cls/c02/c0231	SES188	13.7028
+spk_cls/c02/c0232	SES186	17.9239
+spk_cls/c02/c0233	SES124	15.1769
+spk_cls/c02/c0234	SES163	16.4433
+spk_cls/c02/c0235	SES119	15.4253
+spk_cls/c02/c0236	SES080	16.506
+spk_cls/c02/c0237	SES024	15.9823
+spk_cls/c02/c0238	SES046	16.0064
+spk_cls/c02/c0239	SES173	15.5247
+spk_cls/c02/c0240	SES063	17.3179
+spk_cls/c02/c0241	SES084	17.0712
+spk_cls/c02/c0242	SES046	13.176
+spk_cls/c02/c0243	SES067	16.8901
+spk_cls/c02/c0244	SES109	15.8976
+spk_cls/c02/c0245	SES011	17.2904
+spk_cls/c02/c0246	SES107	15.7624
+spk_cls/c02/c0247	SES065	16.7656
+spk_cls/c02/c0248	SES145	16.492
+spk_cls/c02/c0249	SES203	15.3983
+spk_cls/c02/c0250	SES022	16.4793
+spk_cls/c02/c0251	SES122	17.1066
+spk_cls/c02/c0252	SES182	16.084
+spk_cls/c02/c0253	SES064	16.9256
+spk_cls/c02/c0254	SES009	17.4422
+spk_cls/c02/c0255	SES046	14.4036
+spk_cls/c02/c0256	SES124	15.1214
+spk_cls/c02/c0257	SES204	17.2023
+spk_cls/c02/c0258	SES046	15.6941
+spk_cls/c02/c0259	SES040	17.8042
+spk_cls/c02/c0260	SES065	15.5735
+spk_cls/c02/c0261	SES012	16.2622
+spk_cls/c02/c0262	SES186	17.8117
+spk_cls/c02/c0263	SES063	16.0695
+spk_cls/c02/c0264	SES088	14.8873
+spk_cls/c02/c0265	SES066	17.9834
+spk_cls/c02/c0266	SES161	14.6615
+spk_cls/c02/c0267	SES047	17.4328
+spk_cls/c02/c0268	SES184	16.6857
+spk_cls/c02/c0269	SES147	15.4865
+spk_cls/c02/c0270	SES098	14.0912
+spk_cls/c02/c0271	SES016	17.7095
+spk_cls/c02/c0272	SES023	18.7797
+spk_cls/c02/c0273	SES166	15.7357
+spk_cls/c02/c0274	SES081	16.0683
+spk_cls/c02/c0275	SES005	17.165
+spk_cls/c02/c0276	SES023	16.2198
+spk_cls/c02/c0277	SES203	16.4859
+spk_cls/c02/c0278	SES273	18.353
+spk_cls/c02/c0279	SES084	16.9482
+spk_cls/c02/c0280	SES140	17.125
+spk_cls/c02/c0281	SES066	17.9002
+spk_cls/c02/c0282	SES123	17.1876
+spk_cls/c02/c0283	SES221	17.0022
+spk_cls/c02/c0284	SES205	16.0266
+spk_cls/c02/c0285	SES257	15.1663
+spk_cls/c02/c0286	SES001	15.6688
+spk_cls/c02/c0287	SES148	15.8872
+spk_cls/c02/c0288	SES023	18.8351
+spk_cls/c02/c0289	SES015	17.1006
+spk_cls/c02/c0290	SES290	18.0229
+spk_cls/c02/c0291	SES004	15.369
+spk_cls/c02/c0292	SES000	14.9015
+spk_cls/c02/c0293	SES010	13.926
+spk_cls/c02/c0294	SES164	15.9794
+spk_cls/c02/c0295	SES277	14.9261
+spk_cls/c02/c0296	SES145	16.0042
+spk_cls/c02/c0297	SES171	13.9952
+spk_cls/c02/c0298	SES013	18.742
+spk_cls/c02/c0299	SES081	16.892
+spk_cls/c03/c0300	SES064	16.7386
+spk_cls/c03/c0301	SES225	16.6224
+spk_cls/c03/c0302	SES200	16.0643
+spk_cls/c03/c0303	SES257	15.7067
+spk_cls/c03/c0304	SES014	18.1975
+spk_cls/c03/c0305	SES159	13.4836
+spk_cls/c03/c0306	SES271	18.1328
+spk_cls/c03/c0307	SES271	16.5602
+spk_cls/c03/c0308	SES010	13.1075
+spk_cls/c03/c0309	SES133	16.8787
+spk_cls/c03/c0310	SES022	15.2812
+spk_cls/c03/c0311	SES201	17.1623
+spk_cls/c03/c0312	SES161	15.2926
+spk_cls/c03/c0313	SES013	18.3261
+spk_cls/c03/c0314	SES080	17.0069
+spk_cls/c03/c0315	SES180	15.9418
+spk_cls/c03/c0316	SES204	18.5321
+spk_cls/c03/c0317	SES003	15.8779
+spk_cls/c03/c0318	SES122	15.0554
+spk_cls/c03/c0319	SES278	16.8756
+spk_cls/c03/c0320	SES259	17.0571
+spk_cls/c03/c0321	SES081	15.9133
+spk_cls/c03/c0322	SES023	16.3253
+spk_cls/c03/c0323	SES140	16.8896
+spk_cls/c03/c0324	SES221	16.6194
+spk_cls/c03/c0325	SES186	17.8428
+spk_cls/c03/c0326	SES128	15.2205
+spk_cls/c03/c0327	SES227	17.1216
+spk_cls/c03/c0328	SES188	15.9634
+spk_cls/c03/c0329	SES119	16.2424
+spk_cls/c03/c0330	SES163	15.5189
+spk_cls/c03/c0331	SES294	15.6132
+spk_cls/c03/c0332	SES123	17.1834
+spk_cls/c03/c0333	SES000	16.844
+spk_cls/c03/c0334	SES122	16.1591
+spk_cls/c03/c0335	SES109	15.3039
+spk_cls/c03/c0336	SES145	16.3606
+spk_cls/c03/c0337	SES200	15.7397
+spk_cls/c03/c0338	SES045	17.2524
+spk_cls/c03/c0339	SES119	15.9764
+spk_cls/c03/c0340	SES022	15.7453
+spk_cls/c03/c0341	SES097	17.1102
+spk_cls/c03/c0342	SES108	15.545
+spk_cls/c03/c0343	SES274	15.5918
+spk_cls/c03/c0344	SES273	17.2408
+spk_cls/c03/c0345	SES009	17.4278
+spk_cls/c03/c0346	SES133	17.9433
+spk_cls/c03/c0347	SES007	15.2771
+spk_cls/c03/c0348	SES207	16.4002
+spk_cls/c03/c0349	SES186	16.3049
+spk_cls/c03/c0350	SES085	17.2667
+spk_cls/c03/c0351	SES061	14.3387
+spk_cls/c03/c0352	SES061	13.4598
+spk_cls/c03/c0353	SES184	17.4359
+spk_cls/c03/c0354	SES022	16.603
+spk_cls/c03/c0355	SES161	13.7958
+spk_cls/c03/c0356	SES006	14.8817
+spk_cls/c03/c0357	SES140	17.9308
+spk_cls/c03/c0358	SES122	16.1367
+spk_cls/c03/c0359	SES279	18.0296
+spk_cls/c03/c0360	SES148	15.3065
+spk_cls/c03/c0361	SES067	17.2841
+spk_cls/c03/c0362	SES221	16.8956
+spk_cls/c03/c0363	SES121	14.1266
+spk_cls/c03/c0364	SES185	17.8416
+spk_cls/c03/c0365	SES209	16.6861
+spk_cls/c03/c0366	SES201	17.0818
+spk_cls/c03/c0367	SES146	15.5111
+spk_cls/c03/c0368	SES159	14.2676
+spk_cls/c03/c0369	SES294	15.7884
+spk_cls/c03/c0370	SES142	17.2297
+spk_cls/c03/c0371	SES017	19.4739
+spk_cls/c03/c0372	SES225	16.2154
+spk_cls/c03/c0373	SES132	17.2196
+spk_cls/c03/c0374	SES011	16.6621
+spk_cls/c03/c0375	SES122	15.1886
+spk_cls/c03/c0376	SES271	16.4714
+spk_cls/c03/c0377	SES184	17.045
+spk_cls/c03/c0378	SES205	16.8454
+spk_cls/c03/c0379	SES067	17.2886
+spk_cls/c03/c0380	SES160	15.1702
+spk_cls/c03/c0381	SES276	15.1398
+spk_cls/c03/c0382	SES161	14.933
+spk_cls/c03/c0383	SES100	14.9993
+spk_cls/c03/c0384	SES161	15.2448
+spk_cls/c03/c0385	SES040	15.7304
+spk_cls/c03/c0386	SES184	15.9464
+spk_cls/c03/c0387	SES279	16.2418
+spk_cls/c03/c0388	SES012	18.7793
+spk_cls/c03/c0389	SES024	17.0424
+spk_cls/c03/c0390	SES069	18.5479
+spk_cls/c03/c0391	SES203	17.4854
+spk_cls/c03/c0392	SES084	15.0448
+spk_cls/c03/c0393	SES223	15.4613
+spk_cls/c03/c0394	SES099	15.7015
+spk_cls/c03/c0395	SES225	15.5043
+spk_cls/c03/c0396	SES004	15.4202
+spk_cls/c03/c0397	SES066	16.6026
+spk_cls/c03/c0398	SES089	15.858
+spk_cls/c03/c0399	SES168	16.0216
+spk_cls/c04/c0400	SES065	15.644
+spk_cls/c04/c0401	SES011	17.1087
+spk_cls/c04/c0402	SES118	16.8787
+spk_cls/c04/c0403	SES133	16.3102
+spk_cls/c04/c0404	SES278	15.2603
+spk_cls/c04/c0405	SES170	16.472
+spk_cls/c04/c0406	SES047	17.0166
+spk_cls/c04/c0407	SES173	16.8665
+spk_cls/c04/c0408	SES046	14.0746
+spk_cls/c04/c0409	SES130	16.2848
+spk_cls/c04/c0410	SES015	15.946
+spk_cls/c04/c0411	SES227	15.5727
+spk_cls/c04/c0412	SES064	16.9562
+spk_cls/c04/c0413	SES169	15.3348
+spk_cls/c04/c0414	SES278	15.5544
+spk_cls/c04/c0415	SES015	18.0603
+spk_cls/c04/c0416	SES062	19.2081
+spk_cls/c04/c0417	SES121	13.6267
+spk_cls/c04/c0418	SES066	18.126
+spk_cls/c04/c0419	SES272	15.5577
+spk_cls/c04/c0420	SES043	14.1907
+spk_cls/c04/c0421	SES226	16.6751
+spk_cls/c04/c0422	SES061	14.8686
+spk_cls/c04/c0423	SES124	16.9526
+spk_cls/c04/c0424	SES144	15.8175
+spk_cls/c04/c0425	SES026	16.2348
+spk_cls/c04/c0426	SES131	13.6341
+spk_cls/c04/c0427	SES273	19.9556
+spk_cls/c04/c0428	SES049	13.2564
+spk_cls/c04/c0429	SES088	14.9187
+spk_cls/c04/c0430	SES162	17.2422
+spk_cls/c04/c0431	SES226	17.257
+spk_cls/c04/c0432	SES274	16.4232
+spk_cls/c04/c0433	SES279	16.1407
+spk_cls/c04/c0434	SES165	16.5663
+spk_cls/c04/c0435	SES133	17.1692
+spk_cls/c04/c0436	SES089	15.8252
+spk_cls/c04/c0437	SES276	16.3452
+spk_cls/c04/c0438	SES172	16.4197
+spk_cls/c04/c0439	SES170	16.9639
+spk_cls/c04/c0440	SES188	16.0768
+spk_cls/c04/c0441	SES200	16.3005
+spk_cls/c04/c0442	SES109	15.052
+spk_cls/c04/c0443	SES163	17.9816
+spk_cls/c04/c0444	SES081	17.3086
+spk_cls/c04/c0445	SES141	15.6853
+spk_cls/c04/c0446	SES024	17.5366
+spk_cls/c04/c0447	SES207	15.5121
+spk_cls/c04/c0448	SES097	15.3723
+spk_cls/c04/c0449	SES204	15.794
+spk_cls/c04/c0450	SES100	15.8069
+spk_cls/c04/c0451	SES204	18.2618
+spk_cls/c04/c0452	SES258	15.0904
+spk_cls/c04/c0453	SES189	14.7674
+spk_cls/c04/c0454	SES043	14.6698
+spk_cls/c04/c0455	SES122	16.4217
+spk_cls/c04/c0456	SES202	16.216
+spk_cls/c04/c0457	SES122	14.6639
+spk_cls/c04/c0458	SES145	15.5388
+spk_cls/c04/c0459	SES275	13.6931
+spk_cls/c04/c0460	SES044	14.826
+spk_cls/c04/c0461	SES227	15.7071
+spk_cls/c04/c0462	SES140	15.9455
+spk_cls/c04/c0463	SES063	17.0706
+spk_cls/c04/c0464	SES279	15.1261
+spk_cls/c04/c0465	SES084	14.7565
+spk_cls/c04/c0466	SES008	18.0151
+spk_cls/c04/c0467	SES043	15.4379
+spk_cls/c04/c0468	SES271	18.3247
+spk_cls/c04/c0469	SES128	14.6218
+spk_cls/c04/c0470	SES203	16.5914
+spk_cls/c04/c0471	SES121	13.929
+spk_cls/c04/c0472	SES080	16.376
+spk_cls/c04/c0473	SES061	15.6897
+spk_cls/c04/c0474	SES020	15.75
+spk_cls/c04/c0475	SES011	15.9513
+spk_cls/c04/c0476	SES010	13.8647
+spk_cls/c04/c0477	SES001	15.0957
+spk_cls/c04/c0478	SES020	15.8523
+spk_cls/c04/c0479	SES104	16.539
+spk_cls/c04/c0480	SES162	16.091
+spk_cls/c04/c0481	SES118	15.0556
+spk_cls/c04/c0482	SES006	15.7373
+spk_cls/c04/c0483	SES024	17.3765
+spk_cls/c04/c0484	SES131	14.2761
+spk_cls/c04/c0485	SES084	16.1248
+spk_cls/c04/c0486	SES186	17.333
+spk_cls/c04/c0487	SES209	17.2704
+spk_cls/c04/c0488	SES100	15.8108
+spk_cls/c04/c0489	SES141	14.7568
+spk_cls/c04/c0490	SES276	15.8049
+spk_cls/c04/c0491	SES017	18.44
+spk_cls/c04/c0492	SES209	16.6706
+spk_cls/c04/c0493	SES173	16.8084
+spk_cls/c04/c0494	SES166	15.1777
+spk_cls/c04/c0495	SES103	16.5395
+spk_cls/c04/c0496	SES271	16.2535
+spk_cls/c04/c0497	SES102	15.6822
+spk_cls/c04/c0498	SES047	17.648
+spk_cls/c04/c0499	SES006	13.8144
+spk_cls/c05/c0500	SES149	18.3067
+spk_cls/c05/c0501	SES121	14.9277
+spk_cls/c05/c0502	SES132	14.57
+spk_cls/c05/c0503	SES049	15.8782
+spk_cls/c05/c0504	SES272	16.302
+spk_cls/c05/c0505	SES021	16.0402
+spk_cls/c05/c0506	SES049	14.5142
+spk_cls/c05/c0507	SES205	17.38
+spk_cls/c05/c0508	SES165	15.3907
+spk_cls/c05/c0509	SES011	17.0596
+spk_cls/c05/c0510	SES017	18.0528
+spk_cls/c05/c0511	SES173	16.1193
+spk_cls/c05/c0512	SES294	14.1808
+spk_cls/c05/c0513	SES272	17.3328
+spk_cls/c05/c0514	SES171	14.4138
+spk_cls/c05/c0515	SES270	16.6017
+spk_cls/c05/c0516	SES103	15.1064
+spk_cls/c05/c0517	SES145	15.3293
+spk_cls/c05/c0518	SES067	17.2276
+spk_cls/c05/c0519	SES294	15.6893
+spk_cls/c05/c0520	SES102	14.7572
+spk_cls/c05/c0521	SES003	16.403
+spk_cls/c05/c0522	SES209	15.6421
+spk_cls/c05/c0523	SES047	17.3887
+spk_cls/c05/c0524	SES119	15.409
+spk_cls/c05/c0525	SES279	15.8181
+spk_cls/c05/c0526	SES291	16.9631
+spk_cls/c05/c0527	SES128	14.3634
+spk_cls/c05/c0528	SES221	16.6562
+spk_cls/c05/c0529	SES069	16.9139
+spk_cls/c05/c0530	SES200	15.7403
+spk_cls/c05/c0531	SES290	16.5899
+spk_cls/c05/c0532	SES274	15.7151
+spk_cls/c05/c0533	SES012	17.1034
+spk_cls/c05/c0534	SES005	16.0741
+spk_cls/c05/c0535	SES023	17.1012
+spk_cls/c05/c0536	SES221	15.7686
+spk_cls/c05/c0537	SES025	16.3224
+spk_cls/c05/c0538	SES278	16.0881
+spk_cls/c05/c0539	SES013	18.2927
+spk_cls/c05/c0540	SES291	17.5247
+spk_cls/c05/c0541	SES021	15.0084
+spk_cls/c05/c0542	SES184	15.6678
+spk_cls/c05/c0543	SES128	15.2763
+spk_cls/c05/c0544	SES013	17.5125
+spk_cls/c05/c0545	SES027	18.5355
+spk_cls/c05/c0546	SES157	15.0616
+spk_cls/c05/c0547	SES047	18.0453
+spk_cls/c05/c0548	SES002	18.0915
+spk_cls/c05/c0549	SES185	14.6215
+spk_cls/c05/c0550	SES180	16.4759
+spk_cls/c05/c0551	SES044	16.4294
+spk_cls/c05/c0552	SES294	15.1935
+spk_cls/c05/c0553	SES000	15.7866
+spk_cls/c05/c0554	SES258	15.4148
+spk_cls/c05/c0555	SES183	14.1435
+spk_cls/c05/c0556	SES227	13.7205
+spk_cls/c05/c0557	SES171	14.5128
+spk_cls/c05/c0558	SES205	17.4954
+spk_cls/c05/c0559	SES157	18.4634
+spk_cls/c05/c0560	SES124	17.2884
+spk_cls/c05/c0561	SES097	17.5279
+spk_cls/c05/c0562	SES207	16.9924
+spk_cls/c05/c0563	SES143	15.1252
+spk_cls/c05/c0564	SES042	17.6341
+spk_cls/c05/c0565	SES045	16.1099
+spk_cls/c05/c0566	SES294	15.4138
+spk_cls/c05/c0567	SES015	17.5205
+spk_cls/c05/c0568	SES201	15.4404
+spk_cls/c05/c0569	SES026	14.8688
+spk_cls/c05/c0570	SES203	15.2765
+spk_cls/c05/c0571	SES141	15.7277
+spk_cls/c05/c0572	SES120	13.9175
+spk_cls/c05/c0573	SES276	15.723
+spk_cls/c05/c0574	SES207	15.377
+spk_cls/c05/c0575	SES227	14.7963
+spk_cls/c05/c0576	SES169	15.5324
+spk_cls/c05/c0577	SES097	17.3685
+spk_cls/c05/c0578	SES158	15.2849
+spk_cls/c05/c0579	SES207	14.955
+spk_cls/c05/c0580	SES026	16.9381
+spk_cls/c05/c0581	SES163	15.1827
+spk_cls/c05/c0582	SES204	17.9089
+spk_cls/c05/c0583	SES292	17.5423
+spk_cls/c05/c0584	SES010	12.8225
+spk_cls/c05/c0585	SES010	12.6588
+spk_cls/c05/c0586	SES209	15.142
+spk_cls/c05/c0587	SES258	15.1555
+spk_cls/c05/c0588	SES080	14.4576
+spk_cls/c05/c0589	SES147	15.3492
+spk_cls/c05/c0590	SES069	17.5505
+spk_cls/c05/c0591	SES010	14.2784
+spk_cls/c05/c0592	SES026	15.0292
+spk_cls/c05/c0593	SES166	13.6876
+spk_cls/c05/c0594	SES001	13.8644
+spk_cls/c05/c0595	SES098	15.4431
+spk_cls/c05/c0596	SES163	15.6865
+spk_cls/c05/c0597	SES209	15.7681
+spk_cls/c05/c0598	SES098	16.9195
+spk_cls/c05/c0599	SES207	15.9404
+spk_cls/c06/c0600	SES060	18.0917
+spk_cls/c06/c0601	SES026	15.5178
+spk_cls/c06/c0602	SES170	15.6483
+spk_cls/c06/c0603	SES066	17.9549
+spk_cls/c06/c0604	SES008	19.3199
+spk_cls/c06/c0605	SES103	15.7899
+spk_cls/c06/c0606	SES066	18.3715
+spk_cls/c06/c0607	SES168	16.984
+spk_cls/c06/c0608	SES069	18.1617
+spk_cls/c06/c0609	SES204	19.0136
+spk_cls/c06/c0610	SES201	16.861
+spk_cls/c06/c0611	SES098	16.1718
+spk_cls/c06/c0612	SES168	19.3091
+spk_cls/c06/c0613	SES273	18.1208
+spk_cls/c06/c0614	SES205	17.5391
+spk_cls/c06/c0615	SES118	16.7469
+spk_cls/c06/c0616	SES012	16.8095
+spk_cls/c06/c0617	SES124	15.6891
+spk_cls/c06/c0618	SES000	15.5275
+spk_cls/c06/c0619	SES220	16.0856
+spk_cls/c06/c0620	SES188	15.8432
+spk_cls/c06/c0621	SES201	15.592
+spk_cls/c06/c0622	SES080	16.2951
+spk_cls/c06/c0623	SES117	15.1133
+spk_cls/c06/c0624	SES165	13.9015
+spk_cls/c06/c0625	SES175	15.4831
+spk_cls/c06/c0626	SES271	17.1034
+spk_cls/c06/c0627	SES279	17.3897
+spk_cls/c06/c0628	SES005	19.4651
+spk_cls/c06/c0629	SES069	19.5743
+spk_cls/c06/c0630	SES290	17.2434
+spk_cls/c06/c0631	SES000	16.1703
+spk_cls/c06/c0632	SES080	16.1837
+spk_cls/c06/c0633	SES083	16.566
+spk_cls/c06/c0634	SES107	16.4938
+spk_cls/c06/c0635	SES065	14.237
+spk_cls/c06/c0636	SES157	16.9486
+spk_cls/c06/c0637	SES048	16.0086
+spk_cls/c06/c0638	SES130	17.5012
+spk_cls/c06/c0639	SES024	17.969
+spk_cls/c06/c0640	SES290	16.2023
+spk_cls/c06/c0641	SES089	16.4349
+spk_cls/c06/c0642	SES026	14.8056
+spk_cls/c06/c0643	SES103	14.2272
+spk_cls/c06/c0644	SES279	17.1751
+spk_cls/c06/c0645	SES006	13.8241
+spk_cls/c06/c0646	SES168	17.2569
+spk_cls/c06/c0647	SES165	16.4933
+spk_cls/c06/c0648	SES227	15.7785
+spk_cls/c06/c0649	SES159	14.8406
+spk_cls/c06/c0650	SES204	16.7411
+spk_cls/c06/c0651	SES129	17.4597
+spk_cls/c06/c0652	SES131	15.3711
+spk_cls/c06/c0653	SES132	15.8864
+spk_cls/c06/c0654	SES141	15.7738
+spk_cls/c06/c0655	SES209	14.7064
+spk_cls/c06/c0656	SES100	16.5099
+spk_cls/c06/c0657	SES131	14.4946
+spk_cls/c06/c0658	SES047	16.5545
+spk_cls/c06/c0659	SES027	18.1081
+spk_cls/c06/c0660	SES017	20.7872
+spk_cls/c06/c0661	SES022	16.0911
+spk_cls/c06/c0662	SES274	16.3113
+spk_cls/c06/c0663	SES220	15.9595
+spk_cls/c06/c0664	SES146	15.4321
+spk_cls/c06/c0665	SES166	15.6675
+spk_cls/c06/c0666	SES117	15.409
+spk_cls/c06/c0667	SES009	18.3369
+spk_cls/c06/c0668	SES130	16.3051
+spk_cls/c06/c0669	SES118	15.5278
+spk_cls/c06/c0670	SES159	14.3441
+spk_cls/c06/c0671	SES290	17.1409
+spk_cls/c06/c0672	SES020	16.2497
+spk_cls/c06/c0673	SES184	15.6899
+spk_cls/c06/c0674	SES220	16.0099
+spk_cls/c06/c0675	SES164	18.163
+spk_cls/c06/c0676	SES128	15.0638
+spk_cls/c06/c0677	SES170	16.4543
+spk_cls/c06/c0678	SES085	15.7741
+spk_cls/c06/c0679	SES004	14.7422
+spk_cls/c06/c0680	SES004	15.7806
+spk_cls/c06/c0681	SES021	18.5451
+spk_cls/c06/c0682	SES171	14.6222
+spk_cls/c06/c0683	SES126	14.8611
+spk_cls/c06/c0684	SES080	17.2039
+spk_cls/c06/c0685	SES277	15.8183
+spk_cls/c06/c0686	SES088	17.5882
+spk_cls/c06/c0687	SES043	14.2252
+spk_cls/c06/c0688	SES123	17.2922
+spk_cls/c06/c0689	SES170	15.5295
+spk_cls/c06/c0690	SES173	16.6975
+spk_cls/c06/c0691	SES044	15.9824
+spk_cls/c06/c0692	SES291	16.2257
+spk_cls/c06/c0693	SES065	15.894
+spk_cls/c06/c0694	SES067	17.1921
+spk_cls/c06/c0695	SES007	16.0834
+spk_cls/c06/c0696	SES004	16.5789
+spk_cls/c06/c0697	SES108	16.828
+spk_cls/c06/c0698	SES107	16.4519
+spk_cls/c06/c0699	SES001	15.0698
+spk_cls/c07/c0700	SES118	15.0151
+spk_cls/c07/c0701	SES140	17.229
+spk_cls/c07/c0702	SES276	16.2059
+spk_cls/c07/c0703	SES118	15.4023
+spk_cls/c07/c0704	SES170	17.3086
+spk_cls/c07/c0705	SES012	19.8119
+spk_cls/c07/c0706	SES040	16.3976
+spk_cls/c07/c0707	SES013	17.5683
+spk_cls/c07/c0708	SES080	16.8823
+spk_cls/c07/c0709	SES220	16.7564
+spk_cls/c07/c0710	SES227	15.4019
+spk_cls/c07/c0711	SES108	16.8697
+spk_cls/c07/c0712	SES276	14.9619
+spk_cls/c07/c0713	SES108	16.1031
+spk_cls/c07/c0714	SES131	14.9078
+spk_cls/c07/c0715	SES124	17.5569
+spk_cls/c07/c0716	SES063	16.6823
+spk_cls/c07/c0717	SES276	16.027
+spk_cls/c07/c0718	SES067	17.5421
+spk_cls/c07/c0719	SES004	16.6635
+spk_cls/c07/c0720	SES125	16.9975
+spk_cls/c07/c0721	SES203	16.0089
+spk_cls/c07/c0722	SES160	14.7273
+spk_cls/c07/c0723	SES160	16.5258
+spk_cls/c07/c0724	SES010	13.1445
+spk_cls/c07/c0725	SES204	17.76
+spk_cls/c07/c0726	SES121	12.6931
+spk_cls/c07/c0727	SES257	14.8465
+spk_cls/c07/c0728	SES118	13.8955
+spk_cls/c07/c0729	SES086	17.0875
+spk_cls/c07/c0730	SES121	14.9522
+spk_cls/c07/c0731	SES258	13.481
+spk_cls/c07/c0732	SES157	17.1156
+spk_cls/c07/c0733	SES118	16.5766
+spk_cls/c07/c0734	SES185	15.3524
+spk_cls/c07/c0735	SES258	15.8807
+spk_cls/c07/c0736	SES204	17.7731
+spk_cls/c07/c0737	SES126	17.2179
+spk_cls/c07/c0738	SES121	13.9779
+spk_cls/c07/c0739	SES278	15.6663
+spk_cls/c07/c0740	SES015	18.0397
+spk_cls/c07/c0741	SES165	14.779
+spk_cls/c07/c0742	SES164	19.2433
+spk_cls/c07/c0743	SES045	16.8756
+spk_cls/c07/c0744	SES086	17.1056
+spk_cls/c07/c0745	SES188	14.9712
+spk_cls/c07/c0746	SES294	16.1769
+spk_cls/c07/c0747	SES157	16.1743
+spk_cls/c07/c0748	SES089	16.6077
+spk_cls/c07/c0749	SES043	16.7084
+spk_cls/c07/c0750	SES089	16.8427
+spk_cls/c07/c0751	SES207	16.308
+spk_cls/c07/c0752	SES171	14.0414
+spk_cls/c07/c0753	SES145	15.4589
+spk_cls/c07/c0754	SES182	15.3444
+spk_cls/c07/c0755	SES157	17.1383
+spk_cls/c07/c0756	SES271	17.5382
+spk_cls/c07/c0757	SES081	15.721
+spk_cls/c07/c0758	SES023	18.5686
+spk_cls/c07/c0759	SES225	16.0688
+spk_cls/c07/c0760	SES140	17.6838
+spk_cls/c07/c0761	SES107	16.5917
+spk_cls/c07/c0762	SES184	15.8336
+spk_cls/c07/c0763	SES166	15.7856
+spk_cls/c07/c0764	SES063	15.3793
+spk_cls/c07/c0765	SES273	17.8505
+spk_cls/c07/c0766	SES272	16.2942
+spk_cls/c07/c0767	SES201	17.6796
+spk_cls/c07/c0768	SES068	17.4183
+spk_cls/c07/c0769	SES173	16.0149
+spk_cls/c07/c0770	SES200	16.3011
+spk_cls/c07/c0771	SES089	15.7529
+spk_cls/c07/c0772	SES022	18.0278
+spk_cls/c07/c0773	SES177	15.5732
+spk_cls/c07/c0774	SES182	15.6655
+spk_cls/c07/c0775	SES291	16.0747
+spk_cls/c07/c0776	SES127	16.7643
+spk_cls/c07/c0777	SES069	18.092
+spk_cls/c07/c0778	SES020	17.4557
+spk_cls/c07/c0779	SES173	16.1876
+spk_cls/c07/c0780	SES005	13.9744
+spk_cls/c07/c0781	SES006	14.2322
+spk_cls/c07/c0782	SES081	13.6672
+spk_cls/c07/c0783	SES066	19.0187
+spk_cls/c07/c0784	SES272	14.4409
+spk_cls/c07/c0785	SES109	15.0505
+spk_cls/c07/c0786	SES001	15.4592
+spk_cls/c07/c0787	SES089	17.3588
+spk_cls/c07/c0788	SES126	15.1757
+spk_cls/c07/c0789	SES171	14.8749
+spk_cls/c07/c0790	SES160	15.4987
+spk_cls/c07/c0791	SES272	14.3637
+spk_cls/c07/c0792	SES223	15.9023
+spk_cls/c07/c0793	SES021	17.2622
+spk_cls/c07/c0794	SES124	16.8394
+spk_cls/c07/c0795	SES200	15.9868
+spk_cls/c07/c0796	SES132	16.3129
+spk_cls/c07/c0797	SES223	15.6185
+spk_cls/c07/c0798	SES121	14.0733
+spk_cls/c07/c0799	SES185	15.1774
+spk_cls/c08/c0800	SES044	15.5641
+spk_cls/c08/c0801	SES086	17.1534
+spk_cls/c08/c0802	SES000	16.0723
+spk_cls/c08/c0803	SES009	17.5392
+spk_cls/c08/c0804	SES021	17.8032
+spk_cls/c08/c0805	SES170	16.9151
+spk_cls/c08/c0806	SES084	15.7485
+spk_cls/c08/c0807	SES169	15.0393
+spk_cls/c08/c0808	SES118	15.9722
+spk_cls/c08/c0809	SES273	19.5426
+spk_cls/c08/c0810	SES020	17.0959
+spk_cls/c08/c0811	SES160	15.4256
+spk_cls/c08/c0812	SES084	15.3352
+spk_cls/c08/c0813	SES003	17.2479
+spk_cls/c08/c0814	SES278	16.0158
+spk_cls/c08/c0815	SES126	14.8083
+spk_cls/c08/c0816	SES130	14.4021
+spk_cls/c08/c0817	SES168	16.605
+spk_cls/c08/c0818	SES169	14.2974
+spk_cls/c08/c0819	SES165	14.9255
+spk_cls/c08/c0820	SES005	17.8933
+spk_cls/c08/c0821	SES089	15.5554
+spk_cls/c08/c0822	SES133	17.1149
+spk_cls/c08/c0823	SES132	16.8322
+spk_cls/c08/c0824	SES128	15.9024
+spk_cls/c08/c0825	SES169	15.8887
+spk_cls/c08/c0826	SES012	14.6151
+spk_cls/c08/c0827	SES003	15.1625
+spk_cls/c08/c0828	SES065	16.348
+spk_cls/c08/c0829	SES086	15.8013
+spk_cls/c08/c0830	SES047	17.141
+spk_cls/c08/c0831	SES046	12.9432
+spk_cls/c08/c0832	SES160	14.1348
+spk_cls/c08/c0833	SES205	17.4339
+spk_cls/c08/c0834	SES000	17.3981
+spk_cls/c08/c0835	SES133	16.0126
+spk_cls/c08/c0836	SES106	16.1482
+spk_cls/c08/c0837	SES102	15.9414
+spk_cls/c08/c0838	SES088	15.6706
+spk_cls/c08/c0839	SES166	13.9403
+spk_cls/c08/c0840	SES105	14.8976
+spk_cls/c08/c0841	SES025	16.5015
+spk_cls/c08/c0842	SES205	16.8496
+spk_cls/c08/c0843	SES020	16.3931
+spk_cls/c08/c0844	SES001	16.393
+spk_cls/c08/c0845	SES069	17.8128
+spk_cls/c08/c0846	SES119	16.7587
+spk_cls/c08/c0847	SES164	19.0342
+spk_cls/c08/c0848	SES102	17.5042
+spk_cls/c08/c0849	SES186	15.6391
+spk_cls/c08/c0850	SES020	16.095
+spk_cls/c08/c0851	SES182	15.0132
+spk_cls/c08/c0852	SES061	15.2943
+spk_cls/c08/c0853	SES017	18.097
+spk_cls/c08/c0854	SES133	15.107
+spk_cls/c08/c0855	SES223	14.4987
+spk_cls/c08/c0856	SES098	16.9408
+spk_cls/c08/c0857	SES277	15.474
+spk_cls/c08/c0858	SES173	15.6563
+spk_cls/c08/c0859	SES060	19.0118
+spk_cls/c08/c0860	SES121	14.9479
+spk_cls/c08/c0861	SES209	16.1695
+spk_cls/c08/c0862	SES160	15.0811
+spk_cls/c08/c0863	SES278	14.9704
+spk_cls/c08/c0864	SES258	13.6969
+spk_cls/c08/c0865	SES159	15.1254
+spk_cls/c08/c0866	SES202	15.9593
+spk_cls/c08/c0867	SES163	16.9142
+spk_cls/c08/c0868	SES097	15.0116
+spk_cls/c08/c0869	SES185	15.5945
+spk_cls/c08/c0870	SES045	15.3411
+spk_cls/c08/c0871	SES066	17.1287
+spk_cls/c08/c0872	SES040	17.7574
+spk_cls/c08/c0873	SES009	17.9781
+spk_cls/c08/c0874	SES100	16.2102
+spk_cls/c08/c0875	SES203	17.1843
+spk_cls/c08/c0876	SES271	16.7138
+spk_cls/c08/c0877	SES012	17.2338
+spk_cls/c08/c0878	SES258	14.8727
+spk_cls/c08/c0879	SES029	16.0241
+spk_cls/c08/c0880	SES024	17.0733
+spk_cls/c08/c0881	SES063	16.5312
+spk_cls/c08/c0882	SES119	15.0268
+spk_cls/c08/c0883	SES209	14.9783
+spk_cls/c08/c0884	SES257	15.2177
+spk_cls/c08/c0885	SES049	15.9601
+spk_cls/c08/c0886	SES130	14.8519
+spk_cls/c08/c0887	SES064	17.7947
+spk_cls/c08/c0888	SES270	15.4051
+spk_cls/c08/c0889	SES161	14.2738
+spk_cls/c08/c0890	SES130	17.0577
+spk_cls/c08/c0891	SES141	14.489
+spk_cls/c08/c0892	SES108	16.6967
+spk_cls/c08/c0893	SES100	14.9796
+spk_cls/c08/c0894	SES065	16.9079
+spk_cls/c08/c0895	SES024	17.4233
+spk_cls/c08/c0896	SES173	16.9725
+spk_cls/c08/c0897	SES225	15.8228
+spk_cls/c08/c0898	SES274	16.2801
+spk_cls/c08/c0899	SES227	13.0806
+spk_cls/c09/c0900	SES119	15.5746
+spk_cls/c09/c0901	SES027	17.4606
+spk_cls/c09/c0902	SES225	17.0615
+spk_cls/c09/c0903	SES107	17.2484
+spk_cls/c09/c0904	SES126	15.8162
+spk_cls/c09/c0905	SES024	18.2835
+spk_cls/c09/c0906	SES064	17.0108
+spk_cls/c09/c0907	SES009	17.0061
+spk_cls/c09/c0908	SES223	15.0064
+spk_cls/c09/c0909	SES291	16.2822
+spk_cls/c09/c0910	SES221	16.3306
+spk_cls/c09/c0911	SES102	12.9115
+spk_cls/c09/c0912	SES003	17.2954
+spk_cls/c09/c0913	SES160	14.7218
+spk_cls/c09/c0914	SES004	15.8208
+spk_cls/c09/c0915	SES277	15.9328
+spk_cls/c09/c0916	SES011	15.6026
+spk_cls/c09/c0917	SES130	14.1556
+spk_cls/c09/c0918	SES182	14.793
+spk_cls/c09/c0919	SES182	15.6266
+spk_cls/c09/c0920	SES021	17.4646
+spk_cls/c09/c0921	SES100	16.0532
+spk_cls/c09/c0922	SES168	18.4105
+spk_cls/c09/c0923	SES089	17.1332
+spk_cls/c09/c0924	SES220	15.9171
+spk_cls/c09/c0925	SES021	19.971
+spk_cls/c09/c0926	SES205	17.6465
+spk_cls/c09/c0927	SES278	14.6475
+spk_cls/c09/c0928	SES164	18.9918
+spk_cls/c09/c0929	SES163	14.9876
+spk_cls/c09/c0930	SES017	20.3049
+spk_cls/c09/c0931	SES294	14.6713
+spk_cls/c09/c0932	SES010	13.1993
+spk_cls/c09/c0933	SES130	15.8126
+spk_cls/c09/c0934	SES097	14.3447
+spk_cls/c09/c0935	SES086	14.0475
+spk_cls/c09/c0936	SES257	16.12
+spk_cls/c09/c0937	SES026	15.8979
+spk_cls/c09/c0938	SES168	17.2592
+spk_cls/c09/c0939	SES045	15.1653
+spk_cls/c09/c0940	SES159	14.1345
+spk_cls/c09/c0941	SES182	16.3237
+spk_cls/c09/c0942	SES140	16.8991
+spk_cls/c09/c0943	SES025	15.3833
+spk_cls/c09/c0944	SES290	16.6142
+spk_cls/c09/c0945	SES209	16.9856
+spk_cls/c09/c0946	SES276	15.0093
+spk_cls/c09/c0947	SES126	15.7114
+spk_cls/c09/c0948	SES207	15.7683
+spk_cls/c09/c0949	SES119	16.9164
+spk_cls/c09/c0950	SES279	15.5458
+spk_cls/c09/c0951	SES012	16.0378
+spk_cls/c09/c0952	SES069	17.362
+spk_cls/c09/c0953	SES200	15.6255
+spk_cls/c09/c0954	SES043	15.808
+spk_cls/c09/c0955	SES019	16.6225
+spk_cls/c09/c0956	SES109	13.8784
+spk_cls/c09/c0957	SES276	15.4003
+spk_cls/c09/c0958	SES170	16.4624
+spk_cls/c09/c0959	SES130	15.8139
+spk_cls/c09/c0960	SES223	16.074
+spk_cls/c09/c0961	SES083	17.3893
+spk_cls/c09/c0962	SES043	15.7461
+spk_cls/c09/c0963	SES004	16.7759
+spk_cls/c09/c0964	SES141	16.8845
+spk_cls/c09/c0965	SES001	15.9745
+spk_cls/c09/c0966	SES006	14.5737
+spk_cls/c09/c0967	SES131	14.6519
+spk_cls/c09/c0968	SES291	17.0002
+spk_cls/c09/c0969	SES017	20.4551
+spk_cls/c09/c0970	SES015	16.38
+spk_cls/c09/c0971	SES167	18.4174
+spk_cls/c09/c0972	SES160	16.2195
+spk_cls/c09/c0973	SES187	15.649
+spk_cls/c09/c0974	SES165	13.9146
+spk_cls/c09/c0975	SES023	17.0168
+spk_cls/c09/c0976	SES025	15.8659
+spk_cls/c09/c0977	SES157	15.3486
+spk_cls/c09/c0978	SES258	13.512
+spk_cls/c09/c0979	SES025	15.8152
+spk_cls/c09/c0980	SES005	17.2299
+spk_cls/c09/c0981	SES277	15.2952
+spk_cls/c09/c0982	SES044	15.6964
+spk_cls/c09/c0983	SES061	14.5964
+spk_cls/c09/c0984	SES166	14.9956
+spk_cls/c09/c0985	SES132	15.569
+spk_cls/c09/c0986	SES165	15.15
+spk_cls/c09/c0987	SES188	15.9574
+spk_cls/c09/c0988	SES209	16.0687
+spk_cls/c09/c0989	SES132	17.0536
+spk_cls/c09/c0990	SES123	17.0053
+spk_cls/c09/c0991	SES140	16.0184
+spk_cls/c09/c0992	SES011	18.6251
+spk_cls/c09/c0993	SES271	16.0322
+spk_cls/c09/c0994	SES164	20.8963
+spk_cls/c09/c0995	SES044	14.6068
+spk_cls/c09/c0996	SES184	12.9233
+spk_cls/c09/c0997	SES023	17.5154
+spk_cls/c09/c0998	SES029	16.3197
+spk_cls/c09/c0999	SES044	15.3008
+spk_cls/c10/c1000	SES040	16.6868
+spk_cls/c10/c1001	SES166	17.1398
+spk_cls/c10/c1002	SES102	17.3269
+spk_cls/c10/c1003	SES084	16.4528
+spk_cls/c10/c1004	SES087	16.657
+spk_cls/c10/c1005	SES006	16.1969
+spk_cls/c10/c1006	SES157	16.2657
+spk_cls/c10/c1007	SES169	15.4241
+spk_cls/c10/c1008	SES043	15.4297
+spk_cls/c10/c1009	SES102	16.6358
+spk_cls/c10/c1010	SES273	20.9206
+spk_cls/c10/c1011	SES023	15.8098
+spk_cls/c10/c1012	SES272	14.4699
+spk_cls/c10/c1013	SES271	17.5
+spk_cls/c10/c1014	SES225	16.6905
+spk_cls/c10/c1015	SES123	18.0772
+spk_cls/c10/c1016	SES204	17.9719
+spk_cls/c10/c1017	SES277	15.488
+spk_cls/c10/c1018	SES107	16.6095
+spk_cls/c10/c1019	SES045	16.6409
+spk_cls/c10/c1020	SES022	16.5552
+spk_cls/c10/c1021	SES013	16.9204
+spk_cls/c10/c1022	SES171	14.1945
+spk_cls/c10/c1023	SES108	14.7102
+spk_cls/c10/c1024	SES003	16.6911
+spk_cls/c10/c1025	SES015	17.2494
+spk_cls/c10/c1026	SES068	16.6653
+spk_cls/c10/c1027	SES164	17.775
+spk_cls/c10/c1028	SES016	18.8518
+spk_cls/c10/c1029	SES049	16.7998
+spk_cls/c10/c1030	SES000	16.6805
+spk_cls/c10/c1031	SES145	16.2097
+spk_cls/c10/c1032	SES159	15.883
+spk_cls/c10/c1033	SES171	13.9157
+spk_cls/c10/c1034	SES127	18.9526
+spk_cls/c10/c1035	SES109	15.3429
+spk_cls/c10/c1036	SES027	16.2673
+spk_cls/c10/c1037	SES169	15.2892
+spk_cls/c10/c1038	SES164	19.0401
+spk_cls/c10/c1039	SES102	16.3005
+spk_cls/c10/c1040	SES206	18.2683
+spk_cls/c10/c1041	SES098	14.5294
+spk_cls/c10/c1042	SES149	19.0171
+spk_cls/c10/c1043	SES006	16.2008
+spk_cls/c10/c1044	SES049	17.3189
+spk_cls/c10/c1045	SES097	16.0846
+spk_cls/c10/c1046	SES107	17.7938
+spk_cls/c10/c1047	SES133	16.4725
+spk_cls/c10/c1048	SES185	15.9201
+spk_cls/c10/c1049	SES088	15.0487
+spk_cls/c10/c1050	SES097	16.2521
+spk_cls/c10/c1051	SES101	15.0218
+spk_cls/c10/c1052	SES169	15.7075
+spk_cls/c10/c1053	SES063	15.5944
+spk_cls/c10/c1054	SES026	15.5864
+spk_cls/c10/c1055	SES063	16.1381
+spk_cls/c10/c1056	SES010	11.4236
+spk_cls/c10/c1057	SES061	15.3043
+spk_cls/c10/c1058	SES171	15.0906
+spk_cls/c10/c1059	SES049	16.4952
+spk_cls/c10/c1060	SES040	18.1566
+spk_cls/c10/c1061	SES129	16.9164
+spk_cls/c10/c1062	SES164	18.8698
+spk_cls/c10/c1063	SES126	14.8987
+spk_cls/c10/c1064	SES009	18.6234
+spk_cls/c10/c1065	SES166	15.1312
+spk_cls/c10/c1066	SES009	18.562
+spk_cls/c10/c1067	SES140	16.8739
+spk_cls/c10/c1068	SES108	15.0928
+spk_cls/c10/c1069	SES013	17.8935
+spk_cls/c10/c1070	SES064	15.6178
+spk_cls/c10/c1071	SES086	17.7375
+spk_cls/c10/c1072	SES004	14.8545
+spk_cls/c10/c1073	SES108	15.8185
+spk_cls/c10/c1074	SES015	17.023
+spk_cls/c10/c1075	SES103	14.9698
+spk_cls/c10/c1076	SES291	15.0466
+spk_cls/c10/c1077	SES225	17.9245
+spk_cls/c10/c1078	SES099	16.1328
+spk_cls/c10/c1079	SES025	16.9113
+spk_cls/c10/c1080	SES273	19.4674
+spk_cls/c10/c1081	SES279	15.7761
+spk_cls/c10/c1082	SES086	16.4517
+spk_cls/c10/c1083	SES003	15.257
+spk_cls/c10/c1084	SES017	18.2328
+spk_cls/c10/c1085	SES019	16.4313
+spk_cls/c10/c1086	SES103	14.6166
+spk_cls/c10/c1087	SES170	15.9585
+spk_cls/c10/c1088	SES122	16.2562
+spk_cls/c10/c1089	SES117	13.221
+spk_cls/c10/c1090	SES294	14.8627
+spk_cls/c10/c1091	SES022	16.9562
+spk_cls/c10/c1092	SES124	16.5401
+spk_cls/c10/c1093	SES164	17.8456
+spk_cls/c10/c1094	SES098	15.4636
+spk_cls/c10/c1095	SES065	16.8684
+spk_cls/c10/c1096	SES201	16.4138
+spk_cls/c10/c1097	SES102	15.6773
+spk_cls/c10/c1098	SES005	17.8144
+spk_cls/c10/c1099	SES088	14.5538
+spk_cls/c11/c1100	SES123	17.444
+spk_cls/c11/c1101	SES290	14.8815
+spk_cls/c11/c1102	SES119	14.9838
+spk_cls/c11/c1103	SES273	18.5087
+spk_cls/c11/c1104	SES024	16.142
+spk_cls/c11/c1105	SES002	16.7514
+spk_cls/c11/c1106	SES141	15.9735
+spk_cls/c11/c1107	SES013	17.7577
+spk_cls/c11/c1108	SES140	16.6612
+spk_cls/c11/c1109	SES163	16.4104
+spk_cls/c11/c1110	SES040	16.9317
+spk_cls/c11/c1111	SES182	15.5811
+spk_cls/c11/c1112	SES024	16.3341
+spk_cls/c11/c1113	SES125	17.4295
+spk_cls/c11/c1114	SES257	15.0404
+spk_cls/c11/c1115	SES167	17.6659
+spk_cls/c11/c1116	SES223	14.7342
+spk_cls/c11/c1117	SES291	17.1068
+spk_cls/c11/c1118	SES015	16.7381
+spk_cls/c11/c1119	SES011	15.3458
+spk_cls/c11/c1120	SES081	16.9349
+spk_cls/c11/c1121	SES100	15.8732
+spk_cls/c11/c1122	SES047	16.656
+spk_cls/c11/c1123	SES122	16.7263
+spk_cls/c11/c1124	SES080	15.9341
+spk_cls/c11/c1125	SES098	15.5899
+spk_cls/c11/c1126	SES049	16.0953
+spk_cls/c11/c1127	SES003	15.7235
+spk_cls/c11/c1128	SES131	15.0651
+spk_cls/c11/c1129	SES274	16.135
+spk_cls/c11/c1130	SES025	15.1068
+spk_cls/c11/c1131	SES272	14.2805
+spk_cls/c11/c1132	SES257	15.0209
+spk_cls/c11/c1133	SES103	15.5762
+spk_cls/c11/c1134	SES275	15.2877
+spk_cls/c11/c1135	SES186	16.4122
+spk_cls/c11/c1136	SES042	18.8068
+spk_cls/c11/c1137	SES022	17.3007
+spk_cls/c11/c1138	SES109	15.2304
+spk_cls/c11/c1139	SES013	15.0318
+spk_cls/c11/c1140	SES131	13.3346
+spk_cls/c11/c1141	SES185	14.8584
+spk_cls/c11/c1142	SES165	14.1977
+spk_cls/c11/c1143	SES025	16.3259
+spk_cls/c11/c1144	SES123	16.2965
+spk_cls/c11/c1145	SES290	15.8875
+spk_cls/c11/c1146	SES026	16.5378
+spk_cls/c11/c1147	SES123	16.9014
+spk_cls/c11/c1148	SES065	14.7787
+spk_cls/c11/c1149	SES203	17.1953
+spk_cls/c11/c1150	SES123	16.2141
+spk_cls/c11/c1151	SES015	16.6751
+spk_cls/c11/c1152	SES161	14.5045
+spk_cls/c11/c1153	SES045	15.0966
+spk_cls/c11/c1154	SES064	17.8123
+spk_cls/c11/c1155	SES103	14.9937
+spk_cls/c11/c1156	SES082	16.8113
+spk_cls/c11/c1157	SES066	17.5803
+spk_cls/c11/c1158	SES169	16.3246
+spk_cls/c11/c1159	SES141	17.3398
+spk_cls/c11/c1160	SES040	16.9301
+spk_cls/c11/c1161	SES021	15.9434
+spk_cls/c11/c1162	SES001	13.7748
+spk_cls/c11/c1163	SES100	16.0885
+spk_cls/c11/c1164	SES101	16.342
+spk_cls/c11/c1165	SES163	15.6228
+spk_cls/c11/c1166	SES109	14.762
+spk_cls/c11/c1167	SES005	15.7102
+spk_cls/c11/c1168	SES003	16.0135
+sáb 24 dic 2022 16:25:26 CET
