@@ -1,4 +1,4 @@
-sáb 24 dic 2022 16:23:19 CET: finalclass ---
+sáb 24 dic 2022 16:31:59 CET: finalclass ---
 wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0000.wav work/lpcc/spk_cls/c00/c0000.lpcc
 wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0001.wav work/lpcc/spk_cls/c00/c0001.lpcc
 wav2lpcc 25 25 spk_8mu/sr_test/spk_cls/c00/c0002.wav work/lpcc/spk_cls/c00/c0002.lpcc
@@ -2338,4 +2338,4 @@ spk_cls/c11/c1165	SES163	15.6228
 spk_cls/c11/c1166	SES109	14.762
 spk_cls/c11/c1167	SES005	15.7102
 spk_cls/c11/c1168	SES003	16.0135
-sáb 24 dic 2022 16:25:26 CET
+sáb 24 dic 2022 16:34:14 CET
